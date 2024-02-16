@@ -137,7 +137,7 @@
                     <div class="about-team">
                         <div class="section-heading heading-left">
                             <span class="subtitle">Our Team</span>
-                            <h2>Alone we can do so little; together we can do so much.</h2>
+                            <h2>Alone we can do so little together we can do so much.</h2>
                             <p>Our team is the backbone of our success. We are a group of highly skilled professionals driven by a shared passion for delivering exceptional web and mobile solutions. With diverse backgrounds and expertise, we bring a unique blend of talents to every project. From talented developers to creative designers and strategic thinkers, each member plays a crucial role in our team's achievements. We thrive on continuous learning, embrace innovation, and foster a collaborative environment that ensures client satisfaction. With our team by your side, you can trust that your project will be handled with expertise, creativity, and unwavering dedication.</p>
                             <a href="team.html" class="axil-btn btn-large btn-fill-primary">Our Team</a>
                         </div>
@@ -146,7 +146,7 @@
             </div>
         </div>
     </section>
-        <!--=====================================-->
+    <!--=====================================-->
     <!--=        Brand Area Start       	=-->
     <!--=====================================-->
     <section class="section section-padding bg-color-dark">
@@ -156,44 +156,44 @@
                 <h2 class="title">We’ve built solutions for...</h2>
             </div>
             <div class="row">
-                <div class="col-lg-3 col-6" data-sal="slide-up" data-sal-duration="500">
+                <div class="col-lg-3 col-6 brand" data-sal="slide-up" data-sal-duration="500">
                     <div class="brand-grid active">
-                        <img src="../assets/media/brand/brand-1.png" alt="Brand">
+                        <img src="../assets/media/brand/logo_ard.jpg" alt="Brand" width="120px" >
                     </div>
                 </div>
-                <div class="col-lg-3 col-6" data-sal="slide-up" data-sal-duration="500" data-sal-delay="100">
+                <div class="col-lg-3 col-6 brand" data-sal="slide-up" data-sal-duration="500" data-sal-delay="100" >
                     <div class="brand-grid">
-                        <img src="../assets/media/brand/brand-2.png" alt="Brand">
+                        <img src="../assets/media/brand/logo_vitamix.jpg" alt="Brand" width="120px">
                     </div>
                 </div>
-                <div class="col-lg-3 col-6" data-sal="slide-up" data-sal-duration="500" data-sal-delay="200">
+                <div class="col-lg-3 col-6 brand" data-sal="slide-up" data-sal-duration="500" data-sal-delay="200">
                     <div class="brand-grid">
-                        <img src="../assets/media/brand/brand-3.png" alt="Brand">
+                        <img src="../assets/media/brand/logo_barid.png" alt="Brand" width="120px" >
                     </div>
                 </div>
-                <div class="col-lg-3 col-6" data-sal="slide-up" data-sal-duration="500" data-sal-delay="300">
+                <div class="col-lg-3 col-6 brand" data-sal="slide-up" data-sal-duration="500" data-sal-delay="300">
                     <div class="brand-grid">
-                        <img src="../assets/media/brand/brand-4.png" alt="Brand">
+                        <img src="../assets/media/brand/logo_sap.png" alt="Brand" width="120px" >
                     </div>
                 </div>
-                <div class="col-lg-3 col-6" data-sal="slide-up" data-sal-duration="500" data-sal-delay="400">
+                <div class="col-lg-3 col-6 brand" data-sal="slide-up" data-sal-duration="500" data-sal-delay="400">
                     <div class="brand-grid">
-                        <img src="../assets/media/brand/brand-5.png" alt="Brand">
+                        <img src="../assets/media/brand/logo_ovoyage.jpg" alt="Brand" width="120px">
                     </div>
                 </div>
-                <div class="col-lg-3 col-6" data-sal="slide-up" data-sal-duration="500" data-sal-delay="500">
+                <div class="col-lg-3 col-6 brand" data-sal="slide-up" data-sal-duration="500" data-sal-delay="500">
                     <div class="brand-grid">
-                        <img src="../assets/media/brand/brand-6.png" alt="Brand">
+                        <img src="../assets/media/brand/logo_rose.jpg" alt="Brand" width="120px" >
                     </div>
                 </div>
-                <div class="col-lg-3 col-6" data-sal="slide-up" data-sal-duration="500" data-sal-delay="600">
+                <div class="col-lg-3 col-6 brand" data-sal="slide-up" data-sal-duration="500" data-sal-delay="600">
                     <div class="brand-grid">
-                        <img src="../assets/media/brand/brand-7.png" alt="Brand">
+                        <img src="../assets/media/brand/logo-stage.jpg" alt="Brand" width="120px">
                     </div>
                 </div>
-                <div class="col-lg-3 col-6" data-sal="slide-up" data-sal-duration="500" data-sal-delay="700">
+                <div class="col-lg-3 col-6 brand" data-sal="slide-up" data-sal-duration="500" data-sal-delay="700">
                     <div class="brand-grid">
-                        <img src="../assets/media/brand/brand-8.png" alt="Brand">
+                        <img src="../assets/media/brand/logo_adezif.jpg" alt="Brand" width="120px" >
                     </div>
                 </div>
             </div>
