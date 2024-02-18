@@ -5,7 +5,7 @@
     <!-- Meta Data -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>FloaDevy | Digital Agency</title>
+    <title>FloaDevy | Digital company</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
@@ -81,10 +81,10 @@
                                 </div>
                             </div>
                             <ul class="mainmenu">
-                                <li><a href="index">Home</a></li>
-                                <li><a href="service">Services</a></li>
-                                <li><a href="about-us">About us</a></li>
-                                <li><a href="contact">Contact us</a></li>
+                                <li><a href="index.php">Home</a></li>
+                                <li><a href="service.php">Services</a></li>
+                                <li><a href="about-us.php">About us</a></li>
+                                <li><a href="contact.php">Contact us</a></li>
                             </ul>
                         </nav>
                         <!-- End Mainmanu Nav -->
