@@ -40,15 +40,15 @@
                     <div class="case-study-featured">
                         <div class="section-heading heading-left">
                             <span class="subtitle">Who we are</span>
-                            <h2 class="title">Crafting Exceptional Web and Mobile Solutions</h2>
-                            <p>Welcome to FloaDevy,  We are a team of passionate and skilled professionals dedicated to crafting exceptional digital experiences. With expertise in both web and mobile technologies, we specialize in creating cutting-edge solutions tailored to meet the unique needs of our clients. From responsive websites that captivate audiences to feature-rich mobile applications that enhance user engagement, we have the expertise to bring your ideas to life. Our commitment to innovative design, seamless functionality, and robust development practices allows us to deliver high-quality solutions that drive business growth.</p>
+                            <h2 class="title">FlaoDevy</h2>
+                            <p>FloaDevy specializes in IT System Custom Software Development. We boast a team of professional, passionate, and skilled individuals dedicated to crafting exceptional digital experiences. With expertise in web, mobile technologies, and cloud computing, we excel in creating cutting-edge solutions tailored to meet our clients' unique needs. Whether it's captivating audiences with responsive websites or enhancing user engagement through feature-rich mobile applications, we have the expertise to bring your ideas to life. Our commitment to innovative design, seamless functionality, and robust development practices enables us to deliver high-quality solutions that drive business growth.</p>
                             <p>Trust us to be your partner in success as we create powerful online experiences that leave a lasting impact.</p>
-                            <a href="#" class="axil-btn btn-fill-primary btn-large">Read More</a>
+                            <!-- <a href="#" class="axil-btn btn-fill-primary btn-large">Read More</a> -->
                         </div>
                         <div class="case-study-counterup">
                             <div class="single-counterup">
                                 <h2 class="count-number">
-                                    <span class="number count" data-count="10">10</span>
+                                    <span class="number count" data-count="6">6</span>
                                     <span class="symbol">+</span>
                                 </h2>
                                 <span class="counter-title">Years on the market</span>
@@ -74,7 +74,7 @@
             <div class="section-heading heading-light-left mb--100">
                 <span class="subtitle">Our Valus</span>
                 <h2 class="title">Why should you work with us?</h2>
-                <p class="opacity-50">Because we are more than just a web and mobile development company. We are a dedicated team of professionals committed to your success. With our expertise, personalized approach, and unwavering focus on delivering exceptional results, we are your trusted partner in achieving your digital goals. Experience the difference of working with a team that genuinely cares about your vision and is driven to turn it into reality. Choose us and unlock the full potential of your digital presence.</p>
+                <p class="opacity-50">Because we are more than just a IT System Custom Software Development company. We are a dedicated team of professionals committed to your success. With our expertise, personalized approach, and unwavering focus on delivering exceptional results, we are your trusted partner in achieving your digital goals. Experience the difference of working with a team that genuinely cares about your vision and is driven to turn it into reality. Choose us and unlock the full potential of your digital presence.</p>
             </div>
             <div class="row">
                 <div class="col-lg-4">
@@ -139,7 +139,6 @@
                             <span class="subtitle">Our Team</span>
                             <h2>Alone we can do so little together we can do so much.</h2>
                             <p>Our team is the backbone of our success. We are a group of highly skilled professionals driven by a shared passion for delivering exceptional web and mobile solutions. With diverse backgrounds and expertise, we bring a unique blend of talents to every project. From talented developers to creative designers and strategic thinkers, each member plays a crucial role in our team's achievements. We thrive on continuous learning, embrace innovation, and foster a collaborative environment that ensures client satisfaction. With our team by your side, you can trust that your project will be handled with expertise, creativity, and unwavering dedication.</p>
-                            <a href="team.html" class="axil-btn btn-large btn-fill-primary">Our Team</a>
                         </div>
                     </div>
                 </div>

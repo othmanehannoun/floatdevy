@@ -27,24 +27,21 @@
                             <div class="contact-inner">
                                 <address class="address">
                                     <span class="title">Contact Information</span>
-                                    <p>Theodore Lowe, Ap #867-859 <br> Sit Rd, Azusa New York</p>
+                                    <p>contact@floadevy.com</p>
                                 </address>
                                 <address class="address">
                                     <span class="title">We're Available 24/7. Call Now.</span>
-                                    <a class="tel" href="tel:8884562790"><i class="fas fa-phone"></i>(888)
-                                        456-2790</a>
-                                    <a class="tel" href="tel:12125553333"><i class="fas fa-fax"></i>(121)
-                                        255-53333</a>
+                                    <i class="fas fa-phone"></i>(+212) 616 855 202
+                                        
+                                    
                                 </address>
                             </div>
                             <div class="contact-inner">
                                 <h5 class="title">Find us here</h5>
                                 <div class="contact-social-share">
                                     <ul class="social-share list-unstyled">
-                                        <li><a href="https://facebook.com/"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="https://twitter.com/"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="https://www.behance.net/"><i class="fab fa-behance"></i></a></li>
-                                        <li><a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a></li>
+                                        <!-- <li><a href="https://facebook.com/"><i class="fab fa-facebook-f"></i></a></li> -->
+                                        <li><a href="https://www.linkedin.com/company/floadevy"><i class="fab fa-linkedin-in"></i></a></li>
                                     </ul>
                                 </div>
                             </div>

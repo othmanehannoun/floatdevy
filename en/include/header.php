@@ -62,9 +62,9 @@
             <div class="container">
                 <div class="header-navbar">
                     <div class="header-logo">
-                        <a href="./index.php"><img class="light-version-logo" src="../assets/media/logo.png" alt="floatdevy" width="200px"></a>
-                        <a href="./index.php"><img class="dark-version-logo" src="../assets/media/logo-3.png" alt="floatdevy" width="200px"></a>
-                        <a href="./index.php"><img class="sticky-logo" src="../assets/media/logo-2.png" alt="floatdevy" width="200px"></a>
+                        <a href="index"><img class="light-version-logo" src="../assets/media/logo.png" alt="floatdevy" width="200px"></a>
+                        <a href="index"><img class="dark-version-logo" src="../assets/media/logo-3.png" alt="floatdevy" width="200px"></a>
+                        <a href="index"><img class="sticky-logo" src="../assets/media/logo-2.png" alt="floatdevy" width="200px"></a>
                     </div>
                     <div class="header-main-nav">
                         <!-- Start Mainmanu Nav -->
@@ -72,7 +72,7 @@
                             <div class="d-block d-lg-none">
                                 <div class="mobile-nav-header">
                                     <div class="mobile-nav-logo">
-                                        <a href="./index">
+                                        <a href="index">
                                             <img class="light-mode" src="../assets/media/logo-2.png" alt="floatdevy" width="200px">
                                             <img class="dark-mode" src="../assets/media/logo-3.png" alt="floatdevy" width="200px">
                                         </a>

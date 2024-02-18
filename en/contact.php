@@ -21,8 +21,7 @@ if (isset($_POST["send"])) {
     $mail->Host       = 'smtp.gmail.com';       //Set the SMTP server to send through
     $mail->SMTPAuth   = true;             //Enable SMTP authentication
     $mail->Username   = 'othmanehannoune1@gmail.com';   //SMTP write your email
-    $mail->Password   = 'ahzhcxixroweyctb
-    ';      //SMTP password
+    $mail->Password   = 'ahzhcxixroweyctb';      //SMTP password
     $mail->SMTPSecure = 'ssl';            //Enable implicit SSL encryption
     $mail->Port       = 465;                                    
  
@@ -52,7 +51,7 @@ if (isset($_POST["send"])) {
         <div class="container">
             <div class="breadcrumb">
                 <ul class="list-unstyled">
-                    <li><a href="index-1.html">Home</a></li>
+                    <li><a href="index">Home</a></li>
                     <li class="active">Contact</li>
                 </ul>
                 <h1 class="title h2">Contact</h1>
@@ -78,7 +77,7 @@ if (isset($_POST["send"])) {
             <div class="row">
                 <div class="col-xl-5 col-lg-6">
                     <div class="contact-form-box shadow-box mb--30">
-                        <h3 class="title">Get a free Keystroke quote now</h3>
+                        <h3 class="title">How can we help your business?</h3>
                         <?php
                             if(isset($_GET["error"])){
                                 $error =$_GET["error"];
@@ -125,12 +124,12 @@ if (isset($_POST["send"])) {
                     <div class="contact-info mb--100 mb_md--30 mt_md--0 mt--150">
                         <h4 class="title">Phone</h4>
                         <p>Our customer care is open from Mon-Fri, 9:00 am to 6:00 pm</p>
-                        <h4 class="phone-number"><a href="tel:0616855202">(212) 616 855 202</a></h4>
+                        <h4 class="phone-number"><a href="tel:0616855202">(+212) 616 855 202</a></h4>
                     </div>
                     <div class="contact-info mb--30">
                         <h4 class="title">Email</h4>
-                        <p>Our support team will get back to in 48-h during standard business hours.</p>
-                        <h4 class="phone-number"><a href="mailto:info@example.com">info@example.com</a></h4>
+                        <p>Our support team will get back to in 1h during standard business hours.</p>
+                        <h4 class="phone-number"><a href="mailto:info@example.com">contact@floadevy.com</a></h4>
                     </div>
                 </div>
             </div>
@@ -152,40 +151,41 @@ if (isset($_POST["send"])) {
                 <h2 class="title">Our office</h2>
             </div>
             <div class="row">
-                <div class="col-lg-3 col-sm-6">
+                <div class="col-lg-4 col-sm-6">
                     <div class="office-location">
                         <div class="thumbnail">
                             <img src="../assets/media/others/location-1.png" alt="Office">
                         </div>
                         <div class="content">
-                            <h4 class="title">Virginia-HQ</h4>
-                            <p>435 Pouros Locks United States</p>
+                            <h4 class="title">Safi-Morocco</h4>
+                            <p>Lotissement Zaitoune N°38</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6">
+                <div class="col-lg-4 col-sm-6">
                     <div class="office-location">
                         <div class="thumbnail">
                             <img src="../assets/media/others/location-2.png" alt="Office">
                         </div>
                         <div class="content">
-                            <h4 class="title">Nevada</h4>
-                            <p>46 Watsica Creek Suite 071 United States</p>
+                            <h4 class="title">Agadir-Morocco</h4>
+                            <p>Immeuble jamal, rue hôtel de ville, Agadir 80000</p>
+                             
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6">
+                <div class="col-lg-4 col-sm-6">
                     <div class="office-location">
                         <div class="thumbnail">
                             <img src="../assets/media/others/location-3.png" alt="Office">
                         </div>
                         <div class="content">
-                            <h4 class="title">Columbia</h4>
-                            <p>7140 Wehner Tunnel Washington, D.C</p>
+                            <h4 class="title">Bordeaux-France</h4>
+                            <p>8 Rue Franklin, 33000 Bordeaux, France</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-sm-6">
+                <!-- <div class="col-lg-3 col-sm-6">
                     <div class="office-location">
                         <div class="thumbnail">
                             <img src="../assets/media/others/location-4.png" alt="Office">
@@ -195,7 +195,7 @@ if (isset($_POST["send"])) {
                             <p>10 Maggie Valleys United States</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
         <ul class="shape-group-11 list-unstyled">

@@ -198,34 +198,34 @@
             <div class="container">
                 <div class="section-heading heading-light">
                     <h2 class="title">What distinguishes us from competitors?</h2>
-                    <p>FloaDevy is a company that has developped growth through the practice of outsourcing for its partners in Europe. For many years we cultivated a culture of performance, flexibility and competitiveness. This culture has evolved to meet modern challenges of technology and keep in harmony with our clients evolving needs.</p>
+                    <p>Floadevy is a company that truly sets itself apart with their team of seasoned experts, comprising talented developers, designers, and strategists who possess a wealth of experience and a passion for pushing boundaries. By leveraging the latest technologies and best practices, we craft bespoke solutions that not only elevate our clients' digital presence but also empower them to thrive in an ever-evolving marketplace.</p>
                 </div>
                 <div class="row">
-                    <div class="col-lg-3 col-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="100">
+                    <div class="col-lg-4 col-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="100">
                         <div class="counterup-progress active">
                             <div class="icon">
                                 <img src="../assets/media/icon/icon-7.png" alt="Apple">
                             </div>
                             <div class="count-number h2">
-                                <span class="number count" data-count="10">10</span>
+                                <span class="number count" data-count="6">6</span>
                                 <span class="symbol">+</span>
                             </div>
-                            <h6 class="title">Years of operation</h6>
+                            <h6 class="title">Years of experience</h6>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="200">
+                    <div class="col-lg-4 col-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="200">
                         <div class="counterup-progress">
                             <div class="icon">
                                 <img src="../assets/media/icon/icon-8.png" alt="Apple">
                             </div>
                             <div class="count-number h2">
-                                <span class="number count" data-count="20">20</span>
+                                <span class="number count" data-count="20">200</span>
                                 <span class="symbol">+</span>
                             </div>
-                            <h6 class="title"> Fields of expertise </h6>
+                            <h6 class="title">Realized Projects. </h6>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="300">
+                    <div class="col-lg-4 col-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="300">
                         <div class="counterup-progress">
                             <div class="icon">
                                 <img src="../assets/media/icon/icon-9.png" alt="Apple">
@@ -237,7 +237,7 @@
                             <h6 class="title">Satisfied Clients</h6>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="400">
+                    <!-- <div class="col-lg-3 col-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="400">
                         <div class="counterup-progress">
                             <div class="icon">
                                 <img src="../assets/media/icon/apple.png" alt="Apple">
@@ -248,7 +248,7 @@
                             </div>
                             <h6 class="title">Concluded Projects</h6>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <ul class="list-unstyled shape-group-10">
@@ -317,7 +317,65 @@
         </section>
   
 
-       
+        <section class="section section-padding bg-color-dark overflow-hidden">
+        <div class="container">
+            <div class="section-heading heading-light-left">
+                <span class="subtitle">Find Us</span>
+                <h2 class="title">Our office</h2>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-sm-6">
+                    <div class="office-location">
+                        <div class="thumbnail">
+                            <img src="../assets/media/others/location-1.png" alt="Office">
+                        </div>
+                        <div class="content">
+                            <h4 class="title">Safi-Morocco</h4>
+                            <p>Lotissement Zaitoune N°38 ,Safi</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <div class="office-location">
+                        <div class="thumbnail">
+                            <img src="../assets/media/others/location-2.png" alt="Office">
+                        </div>
+                        <div class="content">
+                            <h4 class="title">Agadir-Morocco</h4>
+                            <p>Immeuble jamal, rue hôtel de ville, Agadir 80000</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <div class="office-location">
+                        <div class="thumbnail">
+                            <img src="../assets/media/others/location-3.png" alt="Office">
+                        </div>
+                        <div class="content">
+                            <h4 class="title">Bordeaux-France</h4>
+                            <p>88 Rue Franklin, 33000 Bordeaux, France</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- <div class="col-lg-3 col-sm-6">
+                    <div class="office-location">
+                        <div class="thumbnail">
+                            <img src="../assets/media/others/location-4.png" alt="Office">
+                        </div>
+                        <div class="content">
+                            <h4 class="title">New Mexico</h4>
+                            <p>10 Maggie Valleys United States</p>
+                        </div>
+                    </div>
+                </div> -->
+            </div>
+        </div>
+        <ul class="shape-group-11 list-unstyled">
+            <!-- <li class="shape shape-1"><img src="../assets/media/others/line-2.png" alt="line"></li> -->
+            <li class="shape shape-2"><img src="../assets/media/others/circle-2.png" alt="line"></li>
+        </ul>
+    </section>
+
 
     <?php include './include/information.php'; ?>
     <?php include './include/footer.php'; ?>

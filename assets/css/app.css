@@ -2763,7 +2763,7 @@ Pagination
 
 @media only screen and (max-width: 991px) {
     .banner {
-        margin-top: -115px;
+        /* margin-top: -115px; */
         padding: 160px 0 0;
     }
 }
@@ -3927,7 +3927,7 @@ Pagination
 }
 
 .contact-info .phone-number {
-    font-size: 48px;
+    font-size: 43px;
     color: var(--color-accent2);
     margin-bottom: 0;
 }
@@ -7178,7 +7178,7 @@ body.op-modal-open {
 
 @media only screen and (min-width: 1200px) and (max-width: 1599px) {
     .axil-header.header-style-2 .axil-mainmenu {
-        padding: 35px 15px;
+        padding: 27px 15px;
     }
 }
 
@@ -7320,16 +7320,16 @@ body.op-modal-open {
 }
 
 .axil-mainmenu {
-    padding: 50px 0;
+    /* padding: 27px 0; */
     -webkit-transition: var(--transition);
     transition: var(--transition);
 }
 
-@media only screen and (min-width: 1200px) and (max-width: 1599px) {
+/* @media only screen and (min-width: 1200px) and (max-width: 1599px) {
     .axil-mainmenu {
         padding: 35px 0;
     }
-}
+} */
 
 @media only screen and (max-width: 1199px) {
     .axil-mainmenu {
@@ -9207,9 +9207,9 @@ body.op-modal-open {
     -ms-flex-align: center;
     align-items: center;
     -webkit-box-pack: justify;
-    -webkit-justify-content: space-between;
+    -webkit-justify-content: center;
     -ms-flex-pack: justify;
-    justify-content: space-between;
+    justify-content: center;
     margin: 0 -5px;
 }
 
