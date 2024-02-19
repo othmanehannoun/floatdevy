@@ -86,10 +86,11 @@
                                 </div>
                             </div>
                             <ul class="mainmenu">
-                                <li><a href="index.php">Home</a></li>
+                                <li><a href="index.php">Accueil </a></li>
                                 <li><a href="service.php">Services</a></li>
-                                <li><a href="about-us.php">About Us</a></li>
-                                <li><a href="contact.php">Contact Us</a></li>
+                                <li><a href="about-us.php">À propos</a></li>
+                                <li><a href="contact.php">Contactez-nous</a></li>
+                              
                              
                                 <div class="dropdown">
                                     <div class="input-box"></div>
