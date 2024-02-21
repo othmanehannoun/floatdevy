@@ -5,11 +5,11 @@
     <!-- Meta Data -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>FloaDevy | Entreprise numérique</title>
+    <title>FloaDevy | Digital company</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="../assets/media/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="../assets/media/favicon.png?v=<?php echo time(); ?>">
     <link rel="stylesheet" href="../assets/css/vendor/bootstrap.min.css">
     <link rel="stylesheet" href="../assets/css/vendor/font-awesome.css">
     <link rel="stylesheet" href="../assets/css/vendor/slick.css">
