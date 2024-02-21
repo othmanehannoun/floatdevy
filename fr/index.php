@@ -9,9 +9,9 @@
                 <div class="row align-items-end align-items-xl-start">
                     <div class="col-lg-6">
                         <div class="banner-content" data-sal="slide-up" data-sal-duration="1000" data-sal-delay="100">
-                            <h1 class="title">Build your innovative digital solutions.</h1>
-                            <span class="subtitle">Enhance your business operations and optimize efficiency, providing a seamless experience for your customers or business .</span>
-                            <a href="contact" class="axil-btn btn-fill-primary btn-large">Contact us</a>
+                            <h1 class="title">Construisez vos solutions numériques innovantes.</h1>
+                            <span class="subtitle">Améliorez vos opérations commerciales et optimisez l'efficacité, offrant une expérience fluide à vos clients ou votre entreprise.</span>
+                            <a href="contact" class="axil-btn btn-fill-primary btn-large">Contactez-nous</a>
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -62,8 +62,8 @@
         <section class="section section-padding-2 bg-color-dark">
             <div class="container">
                 <div class="section-heading heading-light-left">
-                    <span class="subtitle">What We Can Do For You</span>
-                    <h2 class="title">Services we can help you with</h2>
+                    <span class="subtitle">Ce que nous pouvons faire pour vous</span>
+                    <h2 class="title">Services pour lesquels nous pouvons vous aider</h2>
                 </div>
                 <div class="row">
                     <div class="col-xl-4 col-md-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="100">
@@ -72,8 +72,8 @@
                                 <img src="../assets/media/icon/icon-29.png" alt="icon">
                             </div>
                             <div class="content">
-                                <h5 class="title"> <a href="service-design.html">UI/UX Design</a></h5>
-                                <p>Our designers can create visually stunning interfaces and intuitive user experiences that enhance engagement and drive conversions across various platforms..</p>
+                                <h5 class="title"> <a href="service-design.html">Conception UI/UX</a></h5>
+                                <p>Nos designers peuvent créer des interfaces visuellement impressionnantes et des expériences utilisateur intuitives qui améliorent l'engagement et favorisent les conversions sur différentes plateformes.</p>
                             </div>
                         </div>
                     </div>
@@ -83,8 +83,8 @@
                                 <img src="../assets/media/icon/icon-2.png" alt="icon">
                             </div>
                             <div class="content">
-                                <h5 class="title"> <a href="service-development.html">Web Development</a></h5>
-                                <p>We specialize in designing and developing responsive and user-friendly websites tailored to your specific needs. Whether it's a simple informational site or a complex e-commerce platform, we have the expertise to bring your vision to life.</p>
+                                <h5 class="title"> <a href="service-development.html">Développement Web</a></h5>
+                                <p>Nous sommes spécialisés dans la conception et le développement de sites Web réactifs et conviviaux, adaptés à vos besoins spécifiques. Qu'il s'agisse d'un simple site d'information ou d'une plateforme de commerce électronique complexe, nous avons l'expertise pour concrétiser votre vision.</p>
                             </div>
                         </div>
                     </div>
@@ -94,8 +94,8 @@
                                 <img src="../assets/media/icon/icon-3.png" alt="icon">
                             </div>
                             <div class="content">
-                                <h5 class="title"> <a href="service-marketing.html">Digital Marketing</a></h5>
-                                <p>From search engine optimization (SEO) and pay-per-click (PPC) advertising to social media management and content marketing, we can help you increase your online visibility and attract more customers..</p>
+                                <h5 class="title"> <a href="service-marketing.html">Marketing Digital</a></h5>
+                                <p>De l'optimisation pour les moteurs de recherche (SEO) et la publicité au paiement par clic (PPC), à la gestion des médias sociaux et au marketing de contenu, nous pouvons vous aider à augmenter votre visibilité en ligne et attirer davantage de clients.</p>
     
                             </div>
                         </div>
@@ -106,8 +106,8 @@
                                 <img src="../assets/media/icon/icon-32.png" alt="icon">
                             </div>
                             <div class="content">
-                                <h5 class="title"> <a href="service-business.html">Mobile App Development</a></h5>
-                                <p>Our team can create custom mobile applications for iOS and Android devices, providing seamless user experiences and robust functionality</p>
+                                <h5 class="title"> <a href="service-business.html">Développement d'applications mobiles</a></h5>
+                                <p>Notre équipe peut créer des applications mobiles personnalisées pour les appareils iOS et Android, offrant des expériences utilisateur fluides et des fonctionnalités solides.</p>
                                 
                             </div>
                         </div>
@@ -118,8 +118,8 @@
                                 <img src="../assets/media/icon/icon-5.png" alt="icon">
                             </div>
                             <div class="content">
-                                <h5 class="title"> <a href="service-technology.html">Cloud Solutions</a></h5>
-                                <p>We can migrate your existing infrastructure to the cloud or develop cloud-native applications to leverage the scalability, flexibility, and cost-effectiveness of cloud computing.</p>
+                                <h5 class="title"> <a href="service-technology.html">Solutions Cloud</a></h5>
+                                <p>Nous pouvons migrer votre infrastructure existante vers le cloud ou développer des applications natives du cloud pour tirer parti de la scalabilité, de la flexibilité et de la rentabilité de l'informatique en nuage.</p>
                                 
                             </div>
                         </div>
@@ -130,8 +130,8 @@
                                 <img src="../assets/media/icon/icon-6.png" alt="icon">
                             </div>
                             <div class="content">
-                                <h5 class="title"> <a href="service-content-strategy.html">Consulting and Strategy</a></h5>
-                                <p> Our experienced team can provide strategic guidance and consulting services to help you identify opportunities, overcome challenges, and achieve your business objectives.</p>
+                                <h5 class="title"> <a href="service-content-strategy.html">Conseil et Stratégie</a></h5>
+                                <p>Notre équipe expérimentée peut fournir des orientations stratégiques et des services de conseil pour vous aider à identifier les opportunités, surmonter les défis et atteindre vos objectifs commerciaux.</p>
                             </div>
                         </div>
                     </div>
@@ -156,10 +156,10 @@
                             <div class="slick-slide">
                                 <div class="case-study-featured">
                                     <div class="section-heading heading-left">
-                                        <h2 class="title">Are you looking to elevate your online presence?</h2>
-                                        <p>Our expert team specializes in crafting captivating websites and web development designs tailored to your unique needs.</p>
-                                        <p>With meticulous attention to detail and a passion for innovation, we bring your vision to life in the digital realm.</p>
-                                        <a href="contact" class="axil-btn btn-fill-primary btn-large">Contact us</a>
+                                        <h2 class="title">Souhaitez-vous rehausser votre présence en ligne?</h2>
+                                        <p>Notre équipe d'experts se spécialise dans la création de sites web captivants et de designs de développement web adaptés à vos besoins uniques.</p>
+                                        <p>Avec une attention méticuleuse aux détails et une passion pour l'innovation, nous donnons vie à votre vision dans le domaine numérique.</p>
+                                        <a href="contact" class="axil-btn btn-fill-primary btn-large">Contactez-nous</a>
                                     </div>
                                   
                                 </div>
@@ -197,8 +197,8 @@
         <section class="section section-padding bg-color-dark">
             <div class="container">
                 <div class="section-heading heading-light">
-                    <h2 class="title">What distinguishes us from competitors?</h2>
-                    <p>Floadevy is a company that truly sets itself apart with their team of seasoned experts, comprising talented developers, designers, and strategists who possess a wealth of experience and a passion for pushing boundaries. By leveraging the latest technologies and best practices, we craft bespoke solutions that not only elevate our clients' digital presence but also empower them to thrive in an ever-evolving marketplace.</p>
+                    <h2 class="title">Qu'est-ce qui nous distingue de nos concurrents ?</h2>
+                    <p>Floadevy est une entreprise qui se démarque véritablement avec son équipe d'experts chevronnés, composée de développeurs talentueux, de designers et de stratèges qui possèdent une grande expérience et une passion pour repousser les limites. En exploitant les dernières technologies et les meilleures pratiques, nous concevons des solutions sur mesure qui non seulement rehaussent la présence numérique de nos clients, mais leur permettent également de prospérer dans un marché en constante évolution.</p>
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="100">
@@ -210,7 +210,7 @@
                                 <span class="number count" data-count="6">6</span>
                                 <span class="symbol">+</span>
                             </div>
-                            <h6 class="title">Years of experience</h6>
+                            <h6 class="title">Années d'expérience</h6>
                         </div>
                     </div>
                     <div class="col-lg-4 col-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="200">
@@ -222,7 +222,7 @@
                                 <span class="number count" data-count="20">200</span>
                                 <span class="symbol">+</span>
                             </div>
-                            <h6 class="title">Realized Projects. </h6>
+                            <h6 class="title">Projets réalisés.</h6>
                         </div>
                     </div>
                     <div class="col-lg-4 col-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="300">
@@ -234,7 +234,7 @@
                                 <span class="number count" data-count="160">160</span>
                                 <span class="symbol">+</span>
                             </div>
-                            <h6 class="title">Satisfied Clients</h6>
+                            <h6 class="title">Clients satisfaits</h6>
                         </div>
                     </div>
                     <!-- <div class="col-lg-3 col-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="400">
@@ -265,8 +265,8 @@
         <section class="section section-padding bg-color-dark">
             <div class="container">
                 <div class="section-heading heading-light-left">
-                    <span class="subtitle">Our Clients</span>
-                    <h2 class="title">We’ve built solutions for...</h2>
+                    <span class="subtitle">Nos clients</span>
+                    <h2 class="title">Nous avons créé des solutions pour...</h2>
                 </div>
                 <div class="row">
                     <div class="col-lg-3 col-6 brand" data-sal="slide-up" data-sal-duration="500">
@@ -320,8 +320,8 @@
         <section class="section section-padding bg-color-dark overflow-hidden">
         <div class="container">
             <div class="section-heading heading-light-left">
-                <span class="subtitle">Find Us</span>
-                <h2 class="title">Our office</h2>
+                <span class="subtitle">Nous trouver</span>
+                <h2 class="title">Notre bureau</h2>
             </div>
             <div class="row">
                 <div class="col-lg-4 col-sm-6">
@@ -331,7 +331,7 @@
                         </div>
                         <div class="content">
                             <h4 class="title">Safi-Morocco</h4>
-                            <p>Lotissement Zaitoune N°38 ,Safi</p>
+                            <p>Lotissement Zaitoune N°38, Safi</p>
                         </div>
                     </div>
                 </div>

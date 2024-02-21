@@ -5,9 +5,9 @@
     <div class="container">
         <div class="call-to-action">
             <div class="section-heading heading-light">
-                <span class="subtitle">Let's Work Together</span>
-                <h2 class="title">Need a successful project?</h2>
-                <a href="contact" class="axil-btn btn-large btn-fill-white">Contact us</a>
+                <span class="subtitle">Travaillons ensemble</span>
+                <h2 class="title">Besoin d'un projet réussi?</h2>
+                <a href="contact" class="axil-btn btn-large btn-fill-white">Contactez-nous</a>
             </div>
             <div class="thumbnail">
                 <div class="larg-thumb" data-sal="zoom-in" data-sal-duration="600" data-sal-delay="100">
@@ -64,11 +64,11 @@
                                 <div class="header-logo">
                                     <a href="./index.php"><img class="light-version-logo" src="../assets/media/logo.png" alt="floatdevy" width="240px"></a>
                                 </div>
-                                <p>FloaDevy specializes in IT System Custom Software Development. We boast a team of professional, passionate, and skilled individuals dedicated to crafting exceptional digital experiences. With expertise in web, mobile technologies, and cloud computing, we excel in creating cutting-edge solutions tailored to meet our clients' unique needs. Whether it's captivating audiences with responsive websites or enhancing user engagement through feature-rich mobile applications, we have the expertise to bring your ideas to life. Our commitment to innovative design, seamless functionality, and robust development practices enables us to deliver high-quality solutions that drive business growth .</p>
+                                <p>FloaDevy se spécialise dans le développement de logiciels sur mesure pour les systèmes informatiques. Nous sommes fiers de compter sur une équipe de professionnels passionnés et compétents, dévoués à la création d'expériences numériques exceptionnelles. Avec une expertise dans les technologies web, mobiles et cloud computing, nous excellons dans la création de solutions de pointe adaptées aux besoins uniques de nos clients. Que ce soit pour captiver les audiences avec des sites web réactifs ou pour améliorer l'engagement des utilisateurs grâce à des applications mobiles riches en fonctionnalités, nous avons l'expertise nécessaire pour donner vie à vos idées. Notre engagement envers un design innovant, une fonctionnalité sans faille et des pratiques de développement solides nous permet de fournir des solutions de haute qualité qui favorisent la croissance de votre entreprise.</p>
                                 <form>
                                     <div class="input-group">
                                         <input type="email" class="form-control" placeholder="Email address">
-                                        <button class="subscribe-btn" type="submit">Subscribe</button>
+                                        <button class="subscribe-btn" type="submit">S'abonner</button>
                                     </div>
                                 </form>
                             </div>
@@ -82,12 +82,12 @@
                                     <div class="footer-menu-link">
                                         <ul class="list-unstyled">
                                             <li>Logo &amp; Branding</li><br>
-                                            <li>Website Development</li><br>
-                                            <li>Mobile App Development</li><br>
-                                            <li>Cloud Solutionsn</li><br>
-                                            <li>Consulting and Strategy</li><br>
-                                            <li>Search Engine Optimization</li><br>
-                                            <li>Digital Marketing</li><br>
+                                            <li>Développement de sites web</li><br>
+                                            <li>Développement d'applications mobiles</li><br>
+                                            <li>Solutions Cloud</li><br>
+                                            <li>Consulting et stratégiey</li><br>
+                                            <li>Optimisation pour les moteurs de recherche</li><br>
+                                            <li>Marketing digital</li><br>
                                         </ul>
                                     </div>
                                 </div>

@@ -95,8 +95,7 @@ if (isset($_POST["send"])) {
                                 else{
                                     echo "
                                         <div class='alert alert-danger alert-dismissible fade show messages' role='alert'>
-                                            <span>$error</span>  
-                                            
+                                            <span>Email NOT Send successfully</span> 
                                         </div>"; 
                                 }
                             }

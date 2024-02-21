@@ -6,8 +6,8 @@
     <div class="breadcrum-area breadcrumb-banner">
         <div class="container">
             <div class="section-heading heading-left" data-sal="slide-right" data-sal-duration="1000" data-sal-delay="300">
-                <h1 class="title h2">One of the fastest growing company</h1>
-                <p>We design and develop web and mobile applications for our clients worldwide.</p>
+                <h1 class="title h2">L'une des entreprises à la croissance la plus rapide.</h1>
+                <p>Nous concevons et développons des applications web et mobiles pour nos clients du monde entier.</p>
             </div>
             <div class="banner-thumbnail thumbnail-4" data-sal="slide-up" data-sal-duration="1000" data-sal-delay="400">
                 <img src="../assets/media/banner/banner-thumb-3.png" alt="Illustration">
@@ -39,10 +39,10 @@
                 <div class="col-xl-5 col-lg-6">
                     <div class="case-study-featured">
                         <div class="section-heading heading-left">
-                            <span class="subtitle">Who we are</span>
+                            <span class="subtitle">Qui nous sommes</span>
                             <h2 class="title">FlaoDevy</h2>
-                            <p>FloaDevy specializes in IT System Custom Software Development. We boast a team of professional, passionate, and skilled individuals dedicated to crafting exceptional digital experiences. With expertise in web, mobile technologies, and cloud computing, we excel in creating cutting-edge solutions tailored to meet our clients' unique needs. Whether it's captivating audiences with responsive websites or enhancing user engagement through feature-rich mobile applications, we have the expertise to bring your ideas to life. Our commitment to innovative design, seamless functionality, and robust development practices enables us to deliver high-quality solutions that drive business growth.</p>
-                            <p>Trust us to be your partner in success as we create powerful online experiences that leave a lasting impact.</p>
+                            <p>FloaDevy est spécialisé dans le développement sur mesure de logiciels pour les systèmes informatiques. Nous nous vantons d'une équipe de professionnels passionnés et compétents dédiés à la création d'expériences numériques exceptionnelles. Avec notre expertise dans les technologies web, mobiles et le cloud computing, nous excellons dans la création de solutions de pointe adaptées aux besoins uniques de nos clients. Que ce soit pour captiver les audiences avec des sites web réactifs ou améliorer l'engagement des utilisateurs grâce à des applications mobiles riches en fonctionnalités, nous avons l'expertise pour donner vie à vos idées. Notre engagement envers un design innovant, une fonctionnalité sans faille et des pratiques de développement solides nous permet de fournir des solutions de haute qualité qui favorisent la croissance des entreprises.</p>
+                            <p>Faites-nous confiance pour être votre partenaire dans le succès alors que nous créons des expériences en ligne puissantes qui laissent une empreinte durable.</p>
                             <!-- <a href="#" class="axil-btn btn-fill-primary btn-large">Read More</a> -->
                         </div>
                         <div class="case-study-counterup">
@@ -51,14 +51,14 @@
                                     <span class="number count" data-count="6">6</span>
                                     <span class="symbol">+</span>
                                 </h2>
-                                <span class="counter-title">Years on the market</span>
+                                <span class="counter-title">Années sur le marché</span>
                             </div>
                             <div class="single-counterup">
                                 <h2 class="count-number">
                                     <span class="number count" data-count="160">160</span>
                                     <span class="symbol">+</span>
                                 </h2>
-                                <span class="counter-title">Projects delivered so far</span>
+                                <span class="counter-title">Projets livrés jusqu'à présent</span>
                             </div>
                         </div>
                     </div>
@@ -72,44 +72,44 @@
     <section class="section section-padding bg-color-dark pb--80 pb_lg--40 pb_md--20">
         <div class="container">
             <div class="section-heading heading-light-left mb--100">
-                <span class="subtitle">Our Valus</span>
-                <h2 class="title">Why should you work with us?</h2>
-                <p class="opacity-50">Because we are more than just a IT System Custom Software Development company. We are a dedicated team of professionals committed to your success. With our expertise, personalized approach, and unwavering focus on delivering exceptional results, we are your trusted partner in achieving your digital goals. Experience the difference of working with a team that genuinely cares about your vision and is driven to turn it into reality. Choose us and unlock the full potential of your digital presence.</p>
+                <span class="subtitle">Nos valeurs</span>
+                <h2 class="title">Pourquoi devriez-vous travailler avec nous?</h2>
+                <p class="opacity-50">Parce que nous sommes bien plus qu'une entreprise de développement de logiciels sur mesure pour les systèmes informatiques. Nous sommes une équipe dévouée de professionnels engagés dans votre réussite. Grâce à notre expertise, notre approche personnalisée et notre concentration inébranlable sur la fourniture de résultats exceptionnels, nous sommes votre partenaire de confiance pour atteindre vos objectifs numériques. Découvrez la différence de travailler avec une équipe qui se soucie réellement de votre vision et s'engage à la concrétiser. Choisissez-nous et libérez tout le potentiel de votre présence numérique.</p>
             </div>
             <div class="row">
                 <div class="col-lg-4">
                     <div class="about-quality active">
                         <h3 class="sl-number">1</h3>
-                        <h5 class="title">Unleashing Your Digital Potential</h5>
-                        <p>At our company, we are dedicated to unleashing your digital potential. With our expertise in web and mobile development, we have the knowledge and skills to create innovative solutions that drive your business forward. We are committed to understanding your unique goals and challenges, and we work tirelessly to deliver tailored, impactful solutions that exceed your expectations.</p>
+                        <h5 class="title">Libérer votre potentiel numérique</h5>
+                        <p>Notre entreprise est dédiée à libérer votre potentiel numérique. Grâce à notre expertise en développement web et mobile, nous avons les connaissances et les compétences nécessaires pour créer des solutions innovantes qui font avancer votre entreprise. Nous nous engageons à comprendre vos objectifs et défis uniques, et nous travaillons sans relâche pour fournir des solutions sur mesure et impactantes qui dépassent vos attentes.</p>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="about-quality">
                         <h3 class="sl-number">2</h3>
-                        <h5 class="title">Collaborative Approach, Outstanding Results</h5>
-                        <p>Collaboration is at the heart of our process. When you choose to work with us, you become an integral part of our team. We value your insights and actively involve you throughout the development journey. By fostering a collaborative environment, we ensure that our solutions are precisely aligned with your vision, resulting in outstanding outcomes that propel your success.</p>
+                        <h5 class="title">Approche collaborative, résultats exceptionnels</h5>
+                        <p>La collaboration est au cœur de notre processus. Lorsque vous choisissez de travailler avec nous, vous devenez une partie intégrante de notre équipe. Nous apprécions vos idées et vous impliquons activement tout au long du processus de développement. En favorisant un environnement collaboratif, nous veillons à ce que nos solutions soient parfaitement alignées sur votre vision, ce qui se traduit par des résultats exceptionnels qui propulsent votre réussite.</p>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="about-quality">
                         <h3 class="sl-number">3</h3>
-                        <h5 class="title">Expertise and Experience</h5>
-                        <p>With a team of experienced professionals, we bring a wealth of expertise to the table. Our developers, designers, and digital strategists have a deep understanding of the latest industry trends and technologies. Leveraging our knowledge and experience, we create powerful, user-centric solutions that make a lasting impact on your target audience.</p>
+                        <h5 class="title">Expertise et expérience</h5>
+                        <p>Avec une équipe de professionnels expérimentés, nous apportons une grande expertise à la table. Nos développeurs, designers et stratèges numériques ont une compréhension approfondie des dernières tendances et technologies de l'industrie. En exploitant nos connaissances et notre expérience, nous créons des solutions puissantes et centrées sur l'utilisateur qui laissent une empreinte durable sur votre public cible.</p>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="about-quality">
                         <h3 class="sl-number">4</h3>
-                        <h5 class="title">Customized Solutions for Your Business</h5>
-                        <p>We understand that every business is unique, and cookie-cutter solutions won't suffice. That's why we take a customized approach to meet your specific needs. Whether you require a robust e-commerce platform, a captivating website, or a feature-rich mobile application, we tailor our solutions to align with your business objectives, ensuring maximum impact and value.</p>
+                        <h5 class="title">Solutions personnalisées pour votre entreprise</h5>
+                        <p>Nous comprenons que chaque entreprise est unique et que les solutions toutes faites ne suffisent pas. C'est pourquoi nous adoptons une approche personnalisée pour répondre à vos besoins spécifiques. Que vous ayez besoin d'une plateforme de commerce électronique robuste, d'un site web captivant ou d'une application mobile riche en fonctionnalités, nous adaptons nos solutions pour aligner sur vos objectifs commerciaux, garantissant un impact et une valeur maximale.</p>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="about-quality">
                         <h3 class="sl-number">5</h3>
-                        <h5 class="title">Client Satisfaction as Our Priority</h5>
-                        <p>Your satisfaction is our utmost priority. We measure our success by the success of our clients. That's why we go the extra mile to ensure that every aspect of our work is of the highest quality. From the initial consultation to the final delivery, we strive for excellence in every detail. We take pride in building long-lasting relationships with our clients, based on trust, transparency, and exceptional results.</p>
+                        <h5 class="title">Satisfaction du client comme priorité</h5>
+                        <p>Votre satisfaction est notre priorité absolue. Nous mesurons notre succès par le succès de nos clients. C'est pourquoi nous nous efforçons d'assurer la plus haute qualité dans chaque aspect de notre travail. De la consultation initiale à la livraison finale, nous visons l'excellence dans les moindres détails. Nous sommes fiers de construire des relations durables avec nos clients, basées sur la confiance, la transparence et des résultats exceptionnels.</p>
                     </div>
                 </div>
             </div>
@@ -136,9 +136,9 @@
                 <div class="col-lg-5" data-sal="slide-left" data-sal-duration="800" data-sal-delay="100">
                     <div class="about-team">
                         <div class="section-heading heading-left">
-                            <span class="subtitle">Our Team</span>
-                            <h2>Alone we can do so little together we can do so much.</h2>
-                            <p>Our team is the backbone of our success. We are a group of highly skilled professionals driven by a shared passion for delivering exceptional web and mobile solutions. With diverse backgrounds and expertise, we bring a unique blend of talents to every project. From talented developers to creative designers and strategic thinkers, each member plays a crucial role in our team's achievements. We thrive on continuous learning, embrace innovation, and foster a collaborative environment that ensures client satisfaction. With our team by your side, you can trust that your project will be handled with expertise, creativity, and unwavering dedication.</p>
+                            <span class="subtitle">Notre équipe</span>
+                            <h2>Seuls, nous pouvons faire si peu, ensemble, nous pouvons faire beaucoup.</h2>
+                            <p>Notre équipe est le pilier de notre succès. Nous sommes un groupe de professionnels hautement qualifiés animés par une passion commune pour la fourniture de solutions web et mobiles exceptionnelles. Avec des parcours et des expertises diversifiés, nous apportons un mélange unique de talents à chaque projet. Des développeurs talentueux aux designers créatifs et aux penseurs stratégiques, chaque membre joue un rôle crucial dans les réalisations de notre équipe. Nous nous épanouissons dans l'apprentissage continu, nous embrassons l'innovation et favorisons un environnement collaboratif qui garantit la satisfaction du client. Avec notre équipe à vos côtés, vous pouvez avoir confiance que votre projet sera géré avec expertise, créativité et dévouement inébranlable.</p>
                         </div>
                     </div>
                 </div>
@@ -151,8 +151,8 @@
     <section class="section section-padding bg-color-dark">
         <div class="container">
             <div class="section-heading heading-light-left">
-                <span class="subtitle">Our Clients</span>
-                <h2 class="title">We’ve built solutions for...</h2>
+                <span class="subtitle">Nos clients</span>
+                <h2 class="title">Nous avons créé des solutions pour...</h2>
             </div>
             <div class="row">
                 <div class="col-lg-3 col-6 brand" data-sal="slide-up" data-sal-duration="500">

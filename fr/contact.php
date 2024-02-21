@@ -1,4 +1,3 @@
-
 <?php
  
 //Import PHPMailer classes into the global namespace
@@ -51,10 +50,10 @@ if (isset($_POST["send"])) {
         <div class="container">
             <div class="breadcrumb">
                 <ul class="list-unstyled">
-                    <li><a href="index">Home</a></li>
-                    <li class="active">Contact</li>
+                    <li><a href="index">Accueil</a></li>
+                    <li class="active">Contactez-nous</li>
                 </ul>
-                <h1 class="title h2">Contact</h1>
+                <h1 class="title h2">Contactez-nous</h1>
             </div>
         </div>
         <ul class="shape-group-8 list-unstyled">
@@ -77,7 +76,7 @@ if (isset($_POST["send"])) {
             <div class="row">
                 <div class="col-xl-5 col-lg-6">
                     <div class="contact-form-box shadow-box mb--30">
-                        <h3 class="title">How can we help your business?</h3>
+                        <h3 class="title">Comment pouvons-nous aider votre entreprise?</h3>
                         <?php
                             if(isset($_GET["error"])){
                                 $error =$_GET["error"];
@@ -99,7 +98,7 @@ if (isset($_POST["send"])) {
                         ?>
                         <form method="post" id="contact">
                             <div class="form-group">
-                                <label>Name</label>
+                                <label>Nom & Prénom </label>
                                 <input type="text" class="form-control" name="name" tabindex="1" autofocus require>
                             </div>
                             <div class="form-group">
@@ -107,7 +106,7 @@ if (isset($_POST["send"])) {
                                 <input type="email" class="form-control" name="email" tabindex="2" autofocus require>
                             </div>
                             <div class="form-group">
-                                <label>Subject</label>
+                                <label>Sujet</label>
                                 <input type="text" class="form-control" name="subject" tabindex="3" autofocus require>
                             </div>
                             <div class="form-group mb--40">
@@ -115,20 +114,20 @@ if (isset($_POST["send"])) {
                                 <textarea name="message" id="contact-message" class="form-control textarea" cols="30" rows="4" tabindex="4" autofocus require></textarea>
                             </div>
                             <div class="form-group">
-                                <button type="submit" class="axil-btn btn-fill-primary btn-fluid btn-primary" name="send" id="contact-submit">Send</button>
+                                <button type="submit" class="axil-btn btn-fill-primary btn-fluid btn-primary" name="send" id="contact-submit">Envoyer</button>
                             </div>
                         </form>
                     </div>
                 </div>
                 <div class="col-xl-5 col-lg-6 offset-xl-1">
                     <div class="contact-info mb--100 mb_md--30 mt_md--0 mt--150">
-                        <h4 class="title">Phone</h4>
-                        <p>Our customer care is open from Mon-Fri, 9:00 am to 6:00 pm</p>
+                        <h4 class="title">Téléphone</h4>
+                        <p>Notre service client est ouvert du lundi au vendredi, de 9h00 à 18h00.</p>
                         <h4 class="phone-number"><a href="tel:0616855202">(+212) 616 855 202</a></h4>
                     </div>
                     <div class="contact-info mb--30">
                         <h4 class="title">Email</h4>
-                        <p>Our support team will get back to in 1h during standard business hours.</p>
+                        <p>Notre équipe de support vous répondra dans un délai d'une heure pendant les heures normales de bureau.</p>
                         <h4 class="phone-number"><a href="mailto:info@example.com">contact@floadevy.com</a></h4>
                     </div>
                 </div>
@@ -147,8 +146,8 @@ if (isset($_POST["send"])) {
     <section class="section section-padding bg-color-dark overflow-hidden">
         <div class="container">
             <div class="section-heading heading-light-left">
-                <span class="subtitle">Find Us</span>
-                <h2 class="title">Our office</h2>
+                <span class="subtitle">Trouvez-nous</span>
+                <h2 class="title">Notre bureau</h2>
             </div>
             <div class="row">
                 <div class="col-lg-4 col-sm-6">
