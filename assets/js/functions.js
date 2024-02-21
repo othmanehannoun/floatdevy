@@ -4,8 +4,8 @@ var defaultSelection2 = document.getElementById('id2');
 const url_link = new URL(window.location.href);
 
 const segments = url_link.pathname.split('/');
-const segment = segments[2]; // Retrieves the second segment
-const segmentPage = segments[3];
+const segment = segments[1]; // Retrieves the second segment
+const segmentPage = segments[2];
 if(segment === "en"){
     defaultSelection1.checked = true;
     input.innerHTML = defaultSelection1.nextElementSibling.innerHTML;
@@ -34,6 +34,6 @@ rad.forEach((item) => {
     item.addEventListener("change", (value) => {
         input.innerHTML = item.nextElementSibling.innerHTML;
         input.click();
-        window.location.href='https://floadevy.com/floatdevy/' + value.target.defaultValue + '/' + segmentPage;
+        window.location.href='https://floadevy.com/' + value.target.defaultValue + '/' + segmentPage;
     });
 });
