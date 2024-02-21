@@ -123,7 +123,7 @@ if (isset($_POST["send"])) {
                     <div class="contact-info mb--100 mb_md--30 mt_md--0 mt--150">
                         <h4 class="title">Téléphone</h4>
                         <p>Notre service client est ouvert du lundi au vendredi, de 9h00 à 18h00.</p>
-                        <h4 class="phone-number"><a href="tel:0616855202">(+212) 616 855 202</a></h4>
+                        <h4 class="phone-number"><a href="tel:0616855202">(+212) 679 106 116</a></h4>
                     </div>
                     <div class="contact-info mb--30">
                         <h4 class="title">Email</h4>

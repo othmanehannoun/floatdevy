@@ -98,9 +98,9 @@
                                     <h6 class="widget-title">Support</h6>
                                     <div class="footer-menu-link">
                                         <ul class="list-unstyled">
-                                            <li><a href="contact">Contact</a></li>
-                                            <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                                            <li><a href="terms-of-use.html">Terms of Use</a></li>
+                                            <li><a href="contact">Contact</a></li> <br>
+                                            <li>contact@floadevy.com</li><br>
+                                            <!-- <li>(+212) 679 106 116</li> -->
                                         </ul>
                                     </div>
                                 </div>
@@ -111,19 +111,19 @@
             </div>
             <div class="footer-bottom" data-sal="slide-up" data-sal-duration="500" data-sal-delay="100">
                 <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-md-12">
                         <div class="footer-copyright">
                             <span class="copyright-text">© <?php echo date("Y") ?>. All rights reserved by FloaDevy.</span>
                         </div>
                     </div>
-                    <div class="col-md-6">
+                    <!-- <div class="col-md-6">
                         <div class="footer-bottom-link">
                             <ul class="list-unstyled">
                                 <li><a href="privacy-policy.html">Privacy Policy</a></li>
                                 <li><a href="terms-of-use.html">Terms of Use</a></li>
                             </ul>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>

@@ -9297,6 +9297,9 @@ body.op-modal-open {
 
 .footer-copyright .copyright-text {
     color: var(--color-gray-1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .footer-copyright .copyright-text a {
