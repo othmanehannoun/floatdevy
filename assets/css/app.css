@@ -10747,12 +10747,13 @@ input:checked + label::before {
 .open {
   outline: 0.7mm solid rgb(20, 117, 213);
 }
-.title {
+
+/* .title {
   font-family: poppins;
   font-size: small;
   font-weight: 500;
   margin-bottom: 10px;
-}
+} */
 
 /* @media only screen and (max-width: 1199px) {
     .dropdown {
