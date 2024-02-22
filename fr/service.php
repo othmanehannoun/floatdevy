@@ -62,7 +62,7 @@
                     <div class="col-lg-6 col-md-12" data-sal="slide-up" data-sal-duration="800" data-sal-delay="100">
                         <div class="services-grid service-style-2">
                             <div class="thumbnail">
-                                <img src="../assets/media/icon/icon-29.png" alt="icon">
+                                <img src="../assets/media/icon/icon-29.png" alt="Branding">
                             </div>
                             <div class="content">
                                 <h5 class="title"> Logo &amp; Branding</h5>
@@ -74,7 +74,7 @@
                     <div class="col-lg-6 col-md-12" data-sal="slide-up" data-sal-duration="800" data-sal-delay="200">
                         <div class="services-grid service-style-2">
                             <div class="thumbnail">
-                                <img src="../assets/media/icon/icon-2.png" alt="icon">
+                                <img src="../assets/media/icon/icon-2.png" alt="Design de sites web">
                             </div>
                             <div class="content">
                                 <h5 class="title">Design de sites web </h5>
@@ -86,7 +86,7 @@
                     <div class="col-lg-6 col-md-12" data-sal="slide-up" data-sal-duration="800" data-sal-delay="300">
                         <div class="services-grid service-style-2">
                             <div class="thumbnail">
-                                <img src="../assets/media/icon/icon-28.png" alt="icon">
+                                <img src="../assets/media/icon/icon-28.png" alt="design d'applications mobiles">
                             </div>
                             <div class="content">
                                 <h5 class="title">design d'applications mobiles</h5>
@@ -133,7 +133,7 @@
                     <div class="col-lg-6 col-md-12" data-sal="slide-up" data-sal-duration="800" data-sal-delay="100">
                         <div class="services-grid service-style-2">
                             <div class="thumbnail">
-                                <img src="../assets/media/icon/icon-31.png" alt="icon">
+                                <img src="../assets/media/icon/icon-31.png" alt="Développement">
                             </div>
                             <div class="content">
                                 <h5 class="title">Gestion de contenu</h5>
@@ -145,7 +145,7 @@
                     <div class="col-lg-6 col-md-12" data-sal="slide-up" data-sal-duration="800" data-sal-delay="200">
                         <div class="services-grid service-style-2">
                             <div class="thumbnail">
-                                <img src="../assets/media/icon/icon-32.png" alt="icon">
+                                <img src="../assets/media/icon/icon-32.png" alt="Développement d'applications mobiles">
                             </div>
                             <div class="content">
                                 <h5 class="title">Développement d'applications mobiles</h5>
@@ -157,7 +157,7 @@
                     <div class="col-lg-6 col-md-12" data-sal="slide-up" data-sal-duration="800" data-sal-delay="300">
                         <div class="services-grid service-style-2">
                             <div class="thumbnail">
-                                <img src="../assets/media/icon/icon-33.png" alt="icon">
+                                <img src="../assets/media/icon/icon-33.png" alt="Développement de sites web">
                             </div>
                             <div class="content">
                                 <h5 class="title">Développement de sites web</h5>
@@ -180,7 +180,7 @@
                     <div class="col-lg-6 col-md-12" data-sal="slide-up" data-sal-duration="800" data-sal-delay="100">
                         <div class="services-grid service-style-2">
                             <div class="thumbnail">
-                                <img src="../assets/media/icon/icon-34.png" alt="icon">
+                                <img src="../assets/media/icon/icon-34.png" alt="SEO">
                             </div>
                             <div class="content">
                                 <h5 class="title">SEO</h5>
@@ -192,7 +192,7 @@
                     <div class="col-lg-6 col-md-12" data-sal="slide-up" data-sal-duration="800" data-sal-delay="200">
                         <div class="services-grid service-style-2">
                             <div class="thumbnail">
-                                <img src="../assets/media/icon/icon-35.png" alt="icon">
+                                <img src="../assets/media/icon/icon-35.png" alt="Marketing sur les réseaux sociaux">
                             </div>
                             <div class="content">
                                 <h5 class="title">Marketing sur les réseaux sociaux</h5>
@@ -252,7 +252,7 @@
                     <div class="col-lg-6 col-md-12" data-sal="slide-up" data-sal-duration="800" data-sal-delay="100">
                         <div class="services-grid service-style-2">
                             <div class="thumbnail">
-                                <img src="../assets/media/icon/icon-45.png" alt="icon">
+                                <img src="../assets/media/icon/icon-45.png" alt="Pratiques d'audit Web">
                             </div>
                             <div class="content">
                                 <h5 class="title"> <a href="service-content-strategy.html">Pratiques d'audit Web</a></h5>
@@ -264,7 +264,7 @@
                     <div class="col-lg-6 col-md-12" data-sal="slide-up" data-sal-duration="800" data-sal-delay="200">
                         <div class="services-grid service-style-2">
                             <div class="thumbnail">
-                                <img src="../assets/media/icon/icon-46.png" alt="icon">
+                                <img src="../assets/media/icon/icon-46.png" alt="Flexibilité en marketing">
                             </div>
                             <div class="content">
                                 <h5 class="title"> <a href="service-content-strategy.html">Flexibilité en marketing</a></h5>
@@ -276,7 +276,7 @@
                     <div class="col-lg-6 col-md-12" data-sal="slide-up" data-sal-duration="800" data-sal-delay="300">
                         <div class="services-grid service-style-2">
                             <div class="thumbnail">
-                                <img src="../assets/media/icon/icon-47.png" alt="icon">
+                                <img src="../assets/media/icon/icon-47.png" alt="Stratégie publicitaire">
                             </div>
                             <div class="content">
                                 <h5 class="title"> <a href="service-content-strategy.html">Stratégie publicitaire</a></h5>
@@ -300,7 +300,7 @@
                     <div class="col-lg-6 col-md-12" data-sal="slide-up" data-sal-duration="800" data-sal-delay="100">
                         <div class="services-grid service-style-2">
                             <div class="thumbnail">
-                                <img src="../assets/media/icon/icon-2.png" alt="icon">
+                                <img src="../assets/media/icon/icon-2.png" alt="Déploiements">
                             </div>
                             <div class="content">
                                 <h5 class="title"> <a href="service-technology.html">Déploiements</a></h5>

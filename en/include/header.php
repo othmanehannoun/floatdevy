@@ -67,9 +67,9 @@
             <div class="container">
                 <div class="header-navbar">
                     <div class="header-logo">
-                        <a href="./index.php"><img class="light-version-logo" src="../assets/media/logo.png" alt="floatdevy" width="200px"></a>
-                        <a href="./index.php"><img class="dark-version-logo" src="../assets/media/logo-3.png" alt="floatdevy" width="200px"></a>
-                        <a href="./index.php"><img class="sticky-logo" src="../assets/media/logo-2.png" alt="floatdevy" width="200px"></a>
+                        <a href="./"><img class="light-version-logo" src="../assets/media/logo.png" alt="floadevy" width="200px"></a>
+                        <a href="./"><img class="dark-version-logo" src="../assets/media/logo-3.png" alt="floadevy" width="200px"></a>
+                        <a href="./"><img class="sticky-logo" src="../assets/media/logo-2.png" alt="floadevy" width="200px"></a>
                     </div>
                     <div class="header-main-nav">
                         <!-- Start Mainmanu Nav -->
@@ -78,31 +78,31 @@
                                 <div class="mobile-nav-header">
                                     <div class="mobile-nav-logo">
                                         <a href="./index">
-                                            <img class="light-mode" src="../assets/media/logo-2.png" alt="floatdevy" width="200px">
-                                            <img class="dark-mode" src="../assets/media/logo-3.png" alt="floatdevy" width="200px">
+                                            <img class="light-mode" src="../assets/media/logo-2.png" alt="floadevy" width="200px">
+                                            <img class="dark-mode" src="../assets/media/logo-3.png" alt="floadevy" width="200px">
                                         </a>
                                     </div>
                                     <button class="mobile-menu-close" data-bs-dismiss="offcanvas"><i class="fas fa-times"></i></button>
                                 </div>
                             </div>
                             <ul class="mainmenu">
-                                <li><a href="index.php">Home</a></li>
-                                <li><a href="service.php">Services</a></li>
-                                <li><a href="about-us.php">About Us</a></li>
-                                <li><a href="contact.php">Contact Us</a></li>
+                                <li><a href="./">Home</a></li>
+                                <li><a href="service">Services</a></li>
+                                <li><a href="about-us">About Us</a></li>
+                                <li><a href="contact">Contact Us</a></li>
                              
                                 <div class="dropdown">
                                     <div class="input-box"></div>
                                     <div class="list">
                                     <input type="radio" name="drop1" id="id1" class="radio" value="en"/>
                                     <label for="id1">
-                                        <img class="county" src="../assets/media/langauge/usa.png" alt="floatdevy" width="20px">
+                                        <img class="county" src="../assets/media/langauge/usa.png" alt="floadevy" width="20px">
                                         <span class="name">English</span>
                                     </label>
 
                                     <input type="radio" name="drop1" id="id2" class="radio" value="fr"/>
                                     <label for="id2">
-                                        <img class="county" src="../assets/media/langauge/fr.png" alt="floatdevy" width="20px">
+                                        <img class="county" src="../assets/media/langauge/fr.png" alt="floadevy" width="20px">
                                         <span class="name">Français</span>
                                     </label>
                                     </div>

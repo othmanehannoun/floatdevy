@@ -13,32 +13,38 @@ require 'phpmailer/src/SMTP.php';
 //Create an instance; passing `true` enables exceptions
 if (isset($_POST["send"])) {
  
-  $mail = new PHPMailer(true);
+    $mail = new PHPMailer(true);
  
     //Server settings
     $mail->isSMTP();                              //Send using SMTP
-    $mail->Host       = 'smtp.gmail.com';       //Set the SMTP server to send through
-    $mail->SMTPAuth   = true;             //Enable SMTP authentication
-    $mail->Username   = 'othmanehannoune1@gmail.com';   //SMTP write your email
-    $mail->Password   = 'ahzhcxixroweyctb';      //SMTP password
-    $mail->SMTPSecure = 'ssl';            //Enable implicit SSL encryption
-    $mail->Port       = 465;                                    
- 
+    $mail->Host       = 'smtp.gmail.com';  //Set the SMTP server to send through
+    $mail->SMTPAuth   = true;                     //Enable SMTP authentication
+    $mail->Username   = 'floadevy@gmail.com';   //SMTP username (your email)
+    $mail->Password   = 'mrxcggevzytpmdau';         //SMTP password
+    $mail->SMTPSecure = 'ssl';                    //Enable implicit SSL encryption
+    $mail->Port       = 465;                     
+    
     //Recipients
-    $mail->setFrom( $_POST["email"], $_POST["name"]); // Sender Email and name
-    $mail->addAddress('othmanehannone697@gmail.com');     //Add a recipient email  
-    $mail->addReplyTo($_POST["email"], $_POST["name"]); // reply to sender email
- 
+    $mail->setFrom($_POST["email"], $_POST["name"]); // Sender Email and name
+    $mail->addAddress('floadevy@gmail.com');        // Add a recipient email  
+    $mail->addReplyTo($_POST["email"], $_POST["name"]); // Reply to sender email
+    
     //Content
-    $mail->isHTML(true);               //Set email format to HTML
-    $mail->Subject = $_POST["subject"];   // email subject headings
-    $mail->Body    = $_POST["message"]; //email message
+    $mail->isHTML(true);                            //Set email format to HTML
+    $mail->Subject = $_POST["subject"];             // Email subject
+    $mail->Body    = $_POST["message"];             // Email message
       
-    // Success sent message alert
-    $mail->send();
-  
-    header("Location: ./contact.php?error=email sent successfully!");
+    try {
+        // Attempt to send email
+        $mail->send();
+        header("Location: ./contact.php?success=Email sent successfully");
+        exit;
+    } catch (Exception $e) {
+        // Handle errors
+        header("Location: ./contact.php?success=Email NOT Send successfully");
+    }
 }
+
 ?>
 
 <?php include './include/header.php'; ?>

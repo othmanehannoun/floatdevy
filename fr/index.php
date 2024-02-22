@@ -69,7 +69,7 @@
                     <div class="col-xl-4 col-md-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="100">
                         <div class="services-grid active">
                             <div class="thumbnail">
-                                <img src="../assets/media/icon/icon-29.png" alt="icon">
+                                <img src="../assets/media/icon/icon-29.png" alt="Conception UI/UX">
                             </div>
                             <div class="content">
                                 <h5 class="title"> <a href="service-design.html">Conception UI/UX</a></h5>
@@ -80,10 +80,10 @@
                     <div class="col-xl-4 col-md-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="200">
                         <div class="services-grid">
                             <div class="thumbnail">
-                                <img src="../assets/media/icon/icon-2.png" alt="icon">
+                                <img src="../assets/media/icon/icon-2.png" alt="Développement Web">
                             </div>
                             <div class="content">
-                                <h5 class="title"> <a href="service-development.html">Développement Web</a></h5>
+                                <h5 class="title"> <a href="service">Développement Web</a></h5>
                                 <p>Nous sommes spécialisés dans la conception et le développement de sites Web réactifs et conviviaux, adaptés à vos besoins spécifiques. Qu'il s'agisse d'un simple site d'information ou d'une plateforme de commerce électronique complexe, nous avons l'expertise pour concrétiser votre vision.</p>
                             </div>
                         </div>
@@ -91,10 +91,10 @@
                     <div class="col-xl-4 col-md-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="300">
                         <div class="services-grid">
                             <div class="thumbnail">
-                                <img src="../assets/media/icon/icon-3.png" alt="icon">
+                                <img src="../assets/media/icon/icon-3.png" alt="Marketing Digital">
                             </div>
                             <div class="content">
-                                <h5 class="title"> <a href="service-marketing.html">Marketing Digital</a></h5>
+                                <h5 class="title"> <a href="service">Marketing Digital</a></h5>
                                 <p>De l'optimisation pour les moteurs de recherche (SEO) et la publicité au paiement par clic (PPC), à la gestion des médias sociaux et au marketing de contenu, nous pouvons vous aider à augmenter votre visibilité en ligne et attirer davantage de clients.</p>
     
                             </div>
@@ -103,10 +103,10 @@
                     <div class="col-xl-4 col-md-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="100">
                         <div class="services-grid">
                             <div class="thumbnail">
-                                <img src="../assets/media/icon/icon-32.png" alt="icon">
+                                <img src="../assets/media/icon/icon-32.png" alt="Développement d'applications mobiles">
                             </div>
                             <div class="content">
-                                <h5 class="title"> <a href="service-business.html">Développement d'applications mobiles</a></h5>
+                                <h5 class="title"> <a href="service">Développement d'applications mobiles</a></h5>
                                 <p>Notre équipe peut créer des applications mobiles personnalisées pour les appareils iOS et Android, offrant des expériences utilisateur fluides et des fonctionnalités solides.</p>
                                 
                             </div>
@@ -115,10 +115,10 @@
                     <div class="col-xl-4 col-md-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="200">
                         <div class="services-grid">
                             <div class="thumbnail">
-                                <img src="../assets/media/icon/icon-5.png" alt="icon">
+                                <img src="../assets/media/icon/icon-5.png" alt="Solutions Cloud">
                             </div>
                             <div class="content">
-                                <h5 class="title"> <a href="service-technology.html">Solutions Cloud</a></h5>
+                                <h5 class="title"> <a href="service">Solutions Cloud</a></h5>
                                 <p>Nous pouvons migrer votre infrastructure existante vers le cloud ou développer des applications natives du cloud pour tirer parti de la scalabilité, de la flexibilité et de la rentabilité de l'informatique en nuage.</p>
                                 
                             </div>
@@ -127,10 +127,10 @@
                     <div class="col-xl-4 col-md-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="300">
                         <div class="services-grid">
                             <div class="thumbnail">
-                                <img src="../assets/media/icon/icon-6.png" alt="icon">
+                                <img src="../assets/media/icon/icon-6.png" alt="Conseil et Stratégie">
                             </div>
                             <div class="content">
-                                <h5 class="title"> <a href="service-content-strategy.html">Conseil et Stratégie</a></h5>
+                                <h5 class="title"> <a href="service">Conseil et Stratégie</a></h5>
                                 <p>Notre équipe expérimentée peut fournir des orientations stratégiques et des services de conseil pour vous aider à identifier les opportunités, surmonter les défis et atteindre vos objectifs commerciaux.</p>
                             </div>
                         </div>
