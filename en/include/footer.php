@@ -64,13 +64,13 @@
                                 <div class="header-logo">
                                     <a href="./index.php"><img class="light-version-logo" src="../assets/media/logo.png" alt="floatdevy" width="240px"></a>
                                 </div>
-                                <p>FloaDevy specializes in IT System Custom and Software Development. We boast a team consists of professional, passionate, and highly skilled individuals committed to crafting exceptional digital experiences. With extensive expertise in web, mobile technologies, and cloud computing, we excel in creating cutting-edge solutions tailored to meet our clients' unique needs. Whether it's captivating audiences with responsive websites or enhancing user engagement through feature-rich mobile applications, we have the expertise to bring your ideas to life. Our commitment to innovative design, seamless functionality, and robust development practices enables us to deliver high-quality solutions that drive business growth.</p>
-                                <form>
+                                <p>FloaDevy is a company that specializes in IT System Custom and Software Development. We boast a team consists of professional, passionate, and highly skilled individuals committed to crafting exceptional digital experiences. With extensive expertise in web, mobile technologies, and cloud computing, we excel in creating cutting-edge solutions tailored to meet our clients' unique needs. Whether it's captivating audiences with responsive websites or enhancing user engagement through feature-rich mobile applications, we have the expertise to bring your ideas to life. Our commitment to innovative design, seamless functionality, and robust development practices enables us to deliver high-quality solutions that drive business growth.</p>
+                                <!-- <form>
                                     <div class="input-group">
                                         <input type="email" class="form-control" placeholder="Email address">
                                         <button class="subscribe-btn" type="submit">Subscribe</button>
                                     </div>
-                                </form>
+                                </form> -->
                             </div>
                         </div>
                     </div>
@@ -100,6 +100,7 @@
                                         <ul class="list-unstyled">
                                             <li><a href="contact">Contact</a></li>
                                             <li>contact@floadevy.com</li><br>
+                                            <li style="width: 200px;">(+212) 679 106 116</li>
                                         </ul>
                                     </div>
                                 </div>

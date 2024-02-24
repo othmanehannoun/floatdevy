@@ -64,13 +64,13 @@
                                 <div class="header-logo">
                                     <a href="./index.php"><img class="light-version-logo" src="../assets/media/logo.png" alt="floatdevy" width="240px"></a>
                                 </div>
-                                <p>FloaDevy se spécialise dans le développement de logiciels sur mesure pour les systèmes informatiques. Nous sommes fiers de compter sur une équipe de professionnels passionnés et compétents, dévoués à la création d'expériences numériques exceptionnelles. Avec une expertise dans les technologies web, mobiles et cloud computing, nous excellons dans la création de solutions de pointe adaptées aux besoins uniques de nos clients. Que ce soit pour captiver les audiences avec des sites web réactifs ou pour améliorer l'engagement des utilisateurs grâce à des applications mobiles riches en fonctionnalités, nous avons l'expertise nécessaire pour donner vie à vos idées. Notre engagement envers un design innovant, une fonctionnalité sans faille et des pratiques de développement solides nous permet de fournir des solutions de haute qualité qui favorisent la croissance de votre entreprise.</p>
-                                <form>
+                                <p>FloaDevy est une entreprise spécialisée dans le développement de logiciels sur mesure pour les systèmes informatiques. Nous sommes fiers de compter sur une équipe de professionnels passionnés et compétents, dévoués à la création d'expériences numériques exceptionnelles. Avec une expertise dans les technologies web, mobiles et cloud computing, nous excellons dans la création de solutions de pointe adaptées aux besoins uniques de nos clients. Que ce soit pour captiver les audiences avec des sites web réactifs ou pour améliorer l'engagement des utilisateurs grâce à des applications mobiles riches en fonctionnalités, nous avons l'expertise nécessaire pour donner vie à vos idées. Notre engagement envers un design innovant, une fonctionnalité sans faille et des pratiques de développement solides nous permet de fournir des solutions de haute qualité qui favorisent la croissance de votre entreprise.</p>
+                                <!-- <form>
                                     <div class="input-group">
                                         <input type="email" class="form-control" placeholder="Email address">
                                         <button class="subscribe-btn" type="submit">S'abonner</button>
                                     </div>
-                                </form>
+                                </form> -->
                             </div>
                         </div>
                     </div>
@@ -100,7 +100,7 @@
                                         <ul class="list-unstyled">
                                             <li><a href="contact">Contact</a></li> <br>
                                             <li>contact@floadevy.com</li><br>
-                                            <!-- <li>(+212) 679 106 116</li> -->
+                                            <li style="width: 200px;">(+212) 679 106 116</li>
                                         </ul>
                                     </div>
                                 </div>
