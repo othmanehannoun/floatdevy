@@ -69,10 +69,10 @@
                     <div class="col-xl-4 col-md-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="100">
                         <div class="services-grid active">
                             <div class="thumbnail">
-                                <img src="../assets/media/icon/icon-29.png" alt="icon">
+                                <img src="../assets/media/icon/icon-29.png" alt="UI/UX Design">
                             </div>
                             <div class="content">
-                                <h5 class="title"> <a href="service-design.html">UI/UX Design</a></h5>
+                                <h5 class="title"> <a href="service">UI/UX Design</a></h5>
                                 <p>Our designers can create visually stunning interfaces and intuitive user experiences that enhance engagement and drive conversions across various platforms..</p>
                             </div>
                         </div>
@@ -80,10 +80,10 @@
                     <div class="col-xl-4 col-md-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="200">
                         <div class="services-grid">
                             <div class="thumbnail">
-                                <img src="../assets/media/icon/icon-2.png" alt="icon">
+                                <img src="../assets/media/icon/icon-2.png" alt="Web Development">
                             </div>
                             <div class="content">
-                                <h5 class="title"> <a href="service-development.html">Web Development</a></h5>
+                                <h5 class="title"> <a href="service">Web Development</a></h5>
                                 <p>We specialize in designing and developing responsive and user-friendly websites tailored to your specific needs. Whether it's a simple informational site or a complex e-commerce platform, we have the expertise to bring your vision to life.</p>
                             </div>
                         </div>
@@ -91,10 +91,10 @@
                     <div class="col-xl-4 col-md-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="300">
                         <div class="services-grid">
                             <div class="thumbnail">
-                                <img src="../assets/media/icon/icon-3.png" alt="icon">
+                                <img src="../assets/media/icon/icon-3.png" alt="Digital Marketing">
                             </div>
                             <div class="content">
-                                <h5 class="title"> <a href="service-marketing.html">Digital Marketing</a></h5>
+                                <h5 class="title"> <a href="service">Digital Marketing</a></h5>
                                 <p>From search engine optimization (SEO) and pay-per-click (PPC) advertising to social media management and content marketing, we can help you increase your online visibility and attract more customers..</p>
     
                             </div>
@@ -103,10 +103,10 @@
                     <div class="col-xl-4 col-md-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="100">
                         <div class="services-grid">
                             <div class="thumbnail">
-                                <img src="../assets/media/icon/icon-32.png" alt="icon">
+                                <img src="../assets/media/icon/icon-32.png" alt="Mobile App Development">
                             </div>
                             <div class="content">
-                                <h5 class="title"> <a href="service-business.html">Mobile App Development</a></h5>
+                                <h5 class="title"> <a href="service">Mobile App Development</a></h5>
                                 <p>Our team can create custom mobile applications for iOS and Android devices, providing seamless user experiences and robust functionality</p>
                                 
                             </div>
@@ -115,10 +115,10 @@
                     <div class="col-xl-4 col-md-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="200">
                         <div class="services-grid">
                             <div class="thumbnail">
-                                <img src="../assets/media/icon/icon-5.png" alt="icon">
+                                <img src="../assets/media/icon/icon-5.png" alt="Cloud Solutions">
                             </div>
                             <div class="content">
-                                <h5 class="title"> <a href="service-technology.html">Cloud Solutions</a></h5>
+                                <h5 class="title"> <a href="service">Cloud Solutions</a></h5>
                                 <p>We can migrate your existing infrastructure to the cloud or develop cloud-native applications to leverage the scalability, flexibility, and cost-effectiveness of cloud computing.</p>
                                 
                             </div>
@@ -127,10 +127,10 @@
                     <div class="col-xl-4 col-md-6" data-sal="slide-up" data-sal-duration="800" data-sal-delay="300">
                         <div class="services-grid">
                             <div class="thumbnail">
-                                <img src="../assets/media/icon/icon-6.png" alt="icon">
+                                <img src="../assets/media/icon/icon-6.png" alt="Consulting and Strategy">
                             </div>
                             <div class="content">
-                                <h5 class="title"> <a href="service-content-strategy.html">Consulting and Strategy</a></h5>
+                                <h5 class="title"> <a href="service">Consulting and Strategy</a></h5>
                                 <p> Our experienced team can provide strategic guidance and consulting services to help you identify opportunities, overcome challenges, and achieve your business objectives.</p>
                             </div>
                         </div>
@@ -171,17 +171,17 @@
                         <div class="slick-slider slick-dot-nav featured-thumbnail" data-slick='{"infinite": true,"arrows": false, "dots": false, "fade": true, "slidesToShow": 1, "asNavFor": ".featured-content"}'>
                             <div class="slick-slide">
                                 <div class="case-study-featured-thumb">
-                                    <img src="../assets/media/others/case-study-4.png" alt="travel">
+                                    <img src="../assets/media/others/case-study-4.png" alt="floadevy">
                                 </div>
                             </div>
                             <div class="slick-slide">
                                 <div class="case-study-featured-thumb">
-                                    <img src="../assets/media/others/case-study-5.png" alt="travel">
+                                    <img src="../assets/media/others/case-study-5.png" alt="floadevy">
                                 </div>
                             </div>
                             <div class="slick-slide">
                                 <div class="case-study-featured-thumb">
-                                    <img src="../assets/media/others/case-study-6.png" alt="travel">
+                                    <img src="../assets/media/others/case-study-6.png" alt="floadevy">
                                 </div>
                             </div>
                         </div>
