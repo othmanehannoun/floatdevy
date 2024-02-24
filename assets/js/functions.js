@@ -34,6 +34,7 @@ rad.forEach((item) => {
     item.addEventListener("change", (value) => {
         input.innerHTML = item.nextElementSibling.innerHTML;
         input.click();
+        // window.location.href='https://floadevy.com/' + value.target.defaultValue + '/' + segmentPage;
         window.location.href='https://floadevy.com/' + value.target.defaultValue + '/' + segmentPage;
     });
 });

@@ -10676,6 +10676,12 @@ body.op-modal-open {
     justify-content: flex-start;
     position: relative;
 }
+.dropdown .input-box .name {
+    color: dark;
+}
+.active-dark-mode .dropdown .input-box .name {
+    color: white;
+}
 .county{
     margin-right: 10px;
 }
@@ -10689,6 +10695,18 @@ body.op-modal-open {
     transform: translate(0, -50%);
     width: fit-content;
     height: fit-content;
+}
+.active-dark-mode .input-box::before {
+    content: "expand_more";
+    font-family: "Material Icons";
+    position: absolute;
+    font-size: 18px;
+    top: 50%;
+    right: 15px;
+    transform: translate(0, -50%);
+    width: fit-content;
+    height: fit-content;
+    color: white;
 }
 .list {
     position: absolute;
