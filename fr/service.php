@@ -10,6 +10,7 @@
     <meta name="keywords" content="FloaDevy, développement web, ecommerce,  application mobile, sites web, déploiement, application web personnalisée, solutions sur mesure, expériences numériques">
     <title>FloaDevy | Développement Web, eCommerce,  Application Mobile, Sites Web, Déploiement | </title>
     <meta name="robots" content="index, follow">
+    <meta name="google-site-verification" content="ZknH80DfJjQOcZm-mwam8WzsPqvY7ZjIzFKY8SRp_7k" />
     <link rel="canonical" href="https://www.floadevy.com/fr/sevice">
 </head>
     <!-- Favicon -->

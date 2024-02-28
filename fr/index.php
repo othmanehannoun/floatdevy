@@ -10,6 +10,7 @@
     <meta name="keywords" content="FloaDevy, personnalisation des systèmes informatiques, développement de logiciels, développement web, développement mobile, cloud computing, expériences numériques, sites web réactifs, engagement des utilisateurs, solutions innovantes, design innovant, croissance des entreprises">
     <title>FloaDevy | Experts en personnalisation des systèmes informatiques et en développement de logiciels</title>
     <meta name="robots" content="index, follow">
+    <meta name="google-site-verification" content="ZknH80DfJjQOcZm-mwam8WzsPqvY7ZjIzFKY8SRp_7k" />
     <link rel="canonical" href="https://www.floadevy.com/fr">
 </head>
     <!-- Favicon -->

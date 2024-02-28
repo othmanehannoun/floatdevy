@@ -10,6 +10,8 @@
     <meta name="keywords" content="FloaDevy, IT system customization, software development, web development, mobile development, cloud computing, digital experiences, responsive websites, user engagement, cutting-edge solutions, innovative design, business growth">
     <title>FloaDevy | IT System Custom & Software Development Experts</title>
     <meta name="robots" content="index, follow">
+    <meta name="google-site-verification" content="ZknH80DfJjQOcZm-mwam8WzsPqvY7ZjIzFKY8SRp_7k" />
+    
     <link rel="canonical" href="https://www.floadevy.com/en">
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="../assets/media/favicon.png?v=<?php echo time(); ?>">

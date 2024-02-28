@@ -9,6 +9,7 @@
     <meta name="description" content="">
     <meta name="robots" content="noindex, nofollow">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="google-site-verification" content="ZknH80DfJjQOcZm-mwam8WzsPqvY7ZjIzFKY8SRp_7k" />
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="../assets/media/favicon.png?v=<?php echo time(); ?>">
     <link rel="stylesheet" href="../assets/css/vendor/bootstrap.min.css">
