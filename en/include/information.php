@@ -31,8 +31,7 @@
                                 </address>
                                 <address class="address">
                                     <span class="title">We're Available 24/7. Call Now.</span>
-                                    <i class="fas fa-phone"></i>(+212) 616 855 202
-                                        
+                                    <i class="fas fa-phone"></i>(+212) 669 415 996                                        
                                     
                                 </address>
                             </div>

@@ -100,7 +100,7 @@
                                         <ul class="list-unstyled">
                                             <li><a href="contact">Contact</a></li> <br>
                                             <li>contact@floadevy.com</li><br>
-                                            <li style="width: 200px;">(+212) 679 106 116</li>
+                                            <li style="width: 200px;">(+212) 669 415 996</li>
                                         </ul>
                                     </div>
                                 </div>

@@ -100,7 +100,7 @@
                                         <ul class="list-unstyled">
                                             <li><a href="contact">Contact</a></li>
                                             <li>contact@floadevy.com</li><br>
-                                            <li style="width: 200px;">(+212) 679 106 116</li>
+                                            <li style="width: 200px;">(+212) 669 415 996</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -146,7 +146,7 @@
     <script src="../assets/js/vendor/tilt.js"></script>
     <script src="../assets/js/vendor/green-audio-player.min.js"></script>
     <script src="../assets/js/vendor/jquery.nav.js"></script>
-
+    
     <!-- Site Scripts -->
     <script src="../assets/js/app.js"></script>
     <script src="../assets/js/functions.js"></script>
