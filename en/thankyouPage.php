@@ -73,11 +73,11 @@
                         <div class="wrapper-2">
                             <img src="https://i.ibb.co/Lkn7rkG/thank-you-envelope.png" alt="thank-you-envelope" border="0">
                             <h1>Thank you!</h1>
-                            <p>for contacting us, we will reply promptly</p>                             
+                            <p>Please send us a message with your first name, and we will respond to you directly.</p>                             
                             <button class="whatsappButton">
-                                <a class="whatsapp" href="https://wa.me/994501234567">
+                                <a class="whatsapp" href="https://wa.me/+212669415996">
                                     <i class="fab fa-whatsapp fa-2x"></i>
-                                    <span>+212 616 855 302</span>
+                                    <span>+212 669 415 996</span>
                                 </a>
                             </button>
                             <p>Or</p>
@@ -87,9 +87,6 @@
                                     <span>contact@floadevy.com</span>
                                 </a>
                             </button>
-                            <!-- <button class="go-home"><a href="ads">
-                                home page</a>
-                            </button> -->
                         </div>
                     </div>
                 </div>
