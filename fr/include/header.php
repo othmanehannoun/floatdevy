@@ -91,7 +91,7 @@
                                 <li><a href="./">Accueil </a></li>
                                 <li><a href="service">Services</a></li>
                                 <li><a href="about-us">À propos</a></li>
-                                <li><a href="ads">Annonces</a></li>
+                                <li><a href="plans">Plans</a></li>
                                 <li><a href="contact">Contactez-nous</a></li>
 
                               
