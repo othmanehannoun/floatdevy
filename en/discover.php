@@ -9,8 +9,8 @@
     <section id="pricing" class="pricing-content section-padding">
         <div class="container">					
             <div class="section-title text-center">
-                <h2> Plans</h2>
-                <p> Explore our plans and pick the one that best aligns with your goals to boost your business effectively.</p>
+                <h2> Pick the one</h2>
+                <p> that best aligns with your goals to boost your business effectively.</p>
             </div>				
             <div class="row text-center">									
                 <div class="col-lg-3 col-sm-6 col-xs-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0" style="visibility: visible; animation-duration: 1s; animation-delay: 0.1s; animation-name: fadeInUp;">
