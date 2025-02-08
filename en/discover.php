@@ -1,8 +1,6 @@
+
 <?php include './include/header.php'; ?>
     
-
-
-
     <!--=====================================-->
     <!--=       Plans       =-->
     <!--=====================================-->
@@ -29,7 +27,7 @@
                                 <li><b>Free hosting</b> </li>
                                 <li>  <b>4 pages</b> </li>
                                 <li>  <b>Responsive design </b> </li>
-                                <li>  <b>SEO Optimization </b> </li>
+                                <li>  <b> </b> </li>
                                 <!-- <li><b>50GB</b> Bandwidth</li>
                                 <li><b>10</b> Subdomains</li> -->
                                 <li><b>Unlimited</b> Support</li>
@@ -37,7 +35,7 @@
                             <div class="pricing-price">
                                 
                             </div>
-                            <a href="checkout?id=A1b2C3d4E5" class="price_btn">Contcat</a>
+                            <a href="contact-discover?id=A1b2C3d4E5" class="price_btn">Contcat</a>
                         </div>
                     </div>
                 </div><!--- END COL -->	
@@ -64,7 +62,7 @@
                             <div class="pricing-price">
                                 
                             </div>
-                            <a href="checkout?id=X9y8Z7q6W5" class="price_btn">Contcat</a>
+                            <a href="contact-discover?id=X9y8Z7q6W5" class="price_btn">Contcat</a>
                         </div>
                     </div>
                 
@@ -89,7 +87,7 @@
                             <div class="pricing-price">
                                 
                             </div>
-                            <a href="checkout?id=J2k3L4m5N6" class="price_btn">Contcat</a>
+                            <a href="contact-discover?id=J2k3L4m5N6" class="price_btn">Contcat</a>
                         </div>
                     </div>
                
@@ -116,7 +114,7 @@
                             <div class="pricing-price">
                                 
                             </div>
-                            <a href="checkout?id=R1q2S3t4U5" class="price_btn">Contcat</a>
+                            <a href="contact-discover?id=R1q2S3t4U5" class="price_btn">Contcat</a>
                         </div>
                     </div>
                 </div><!--- END COL -->			  

@@ -464,7 +464,7 @@ input,
 input:focus,
 .form-control:focus {
     outline: none;
-    box-shadow: 0 20px 48px -14px rgba(153, 161, 170, 0.25);
+    /* box-shadow: 0 20px 48px -14px rgba(153, 161, 170, 0.25); */
     border-color: transparent;
 }
 

@@ -38,3 +38,23 @@ rad.forEach((item) => {
         window.location.href='https://floadevy.com/' + value.target.defaultValue + '/' + segmentPage;
     });
 });
+
+
+function submitForm(event) {
+    event.preventDefault();  // Prevent default form submission
+    
+    const form = document.getElementById("dataForm");
+    const formData = new FormData(form);
+    
+    fetch("https://script.google.com/macros/s/AKfycbyDPw8pm6MuWIIfXWTYkXSOHei3c4oGVmq8DBEZt_MnIpXW8OpsyArVz9vI5cooGTDN/exec", {  // Replace with your Google Apps Script URL
+        method: "POST",
+        mode: "no-cors",  // Prevent CORS issue
+        body: formData
+    })
+    .then(response => response.text())
+    .then(data => {
+        alert("Form Submitted Successfully!");
+        form.reset(); // Clear the form after submission
+    })
+    .catch(error => console.error("Error:", error));
+}
