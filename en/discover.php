@@ -27,7 +27,7 @@
                                 <li><b>Free hosting</b> </li>
                                 <li>  <b>4 pages</b> </li>
                                 <li>  <b>Responsive design </b> </li>
-                                <li>  <b> </b> </li>
+                                <li>  <b>SEO Optimization </b> </li>
                                 <!-- <li><b>50GB</b> Bandwidth</li>
                                 <li><b>10</b> Subdomains</li> -->
                                 <li><b>Unlimited</b> Support</li>
