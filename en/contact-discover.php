@@ -226,7 +226,7 @@
                                 <textarea name="message" id="contact-message" class="form-control textarea" cols="30" rows="4" tabindex="4" autofocus require></textarea>
                             </div> -->
                             <div class="form-group">
-                                <button type="submit" class="axil-btn btn-fill-primary btn-fluid btn-primary">Send</button>
+                                <button type="submit" class="axil-btn btn-fill-primary btn-fluid btn-primary loading" id="submitButton">Send</button>
                             </div>
                         </form>
                     </div>

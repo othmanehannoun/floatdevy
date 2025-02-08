@@ -108,6 +108,11 @@ function submitForm(event) {
 
     if (!isValid) return; // Stop submission if validation fails
 
+     // Change button text to "loading..."
+     const submitButton = document.getElementById("submitButton");
+     submitButton.disabled = true;
+     submitButton.innerHTML = '<i class="fa fa-spinner fa-spin"></i>';  // Change text to "loading..."
+ 
     const form = document.getElementById("dataForm");
     const formData = new FormData(form);
     

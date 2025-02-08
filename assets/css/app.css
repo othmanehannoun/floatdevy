@@ -11061,10 +11061,16 @@ text-decoration:none;
         overflow: auto;
     }
 }
+/* End THANKYOU PAGE STYLE */
 
 .error-message {
     color: red;
     font-size: 0.875rem;
     margin-top: 5px;
 }
-/* START THANKYOU PAGE STYLE */
+
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
