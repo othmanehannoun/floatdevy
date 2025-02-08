@@ -42,7 +42,21 @@
                         <div class="mt-5 mt-lg-0">
                 <div class="card border shadow-none">
                     <div class="card-header bg-transparent border-bottom py-3 px-4">
-                        <h5 class="font-size-16 mb-0">Plan Id <span class="float-end"><?php echo $id; ?></span></h5>
+                        <h5 class="font-size-16 mb-0">Plan<span class="float-end"><?php 
+                            switch ($id) {
+                                case "A1b2C3d4E5":
+                                    echo 'Website';
+                                    break;
+                                case "X9y8Z7q6W5":
+                                    echo 'E-commece website';
+                                    break;
+                                case "J2k3L4m5N6":
+                                    echo 'Web APP'; 
+                                    break;
+                                default:
+                                    echo 'Mobile APP';
+                            }
+                        ?></span></h5>
                     </div>
                     <div class="card-body p-4 pt-2">
                         <div class="table-responsive">
@@ -53,9 +67,6 @@
                                         switch ($id) {
                                             case "A1b2C3d4E5":
                                                 echo '
-                                                <tr>
-                                                    <td colspan="2">webite</td>
-                                                </tr>
                                                 <tr>
                                                     <td colspan="2"><b>Free</b> Free domain</td>
                                                 </tr>
@@ -73,9 +84,6 @@
 
                                             case "X9y8Z7q6W5":
                                                 echo '
-                                                <tr>
-                                                    <td colspan="2">E-commece webite</td>
-                                                </tr>
                                                 <tr>
                                                     <td colspan="2"><b>Free</b> Free domain</td>
                                                 </tr>
@@ -96,9 +104,6 @@
                                             case "J2k3L4m5N6":
                                                 echo '
                                                 <tr>
-                                                    <td colspan="2">Web APP</td>
-                                                </tr>
-                                                <tr>
                                                     <td colspan="2"><b>Frontend: </b> React, Next.js</td>
                                                 </tr>
                                                 <tr>
@@ -117,9 +122,6 @@
 
                                             default:
                                                 echo '
-                                                <tr>
-                                                    <td colspan="2">Mobile APP</td>
-                                                </tr>
                                                 <tr>
                                                     <td colspan="5"><b>Platform</b> Android</td>
                                                 </tr>
@@ -183,7 +185,7 @@
                                         echo 'website';
                                         break;
                                     case "X9y8Z7q6W5":
-                                        echo 'E-commece webite';
+                                        echo 'E-commece website';
                                         break;
                                     case "J2k3L4m5N6":
                                         echo 'Web APP'; 
@@ -195,18 +197,26 @@
                             require
                         >
 
-                            <div class="form-group">
-                                <label>Name</label>
-                                <input type="text" class="form-control" name="name" autofocus require>
-                            </div>
-                            <div class="form-group">
-                                <label>Email</label>
-                                <input type="email" class="form-control" name="email" autofocus require>
-                            </div>
-                            <div class="form-group">
-                                <label>Phone Number</label>
-                                <input type="text" class="form-control" name="phone" autofocus require>
-                            </div>
+                        <div class="form-group">
+                            <label>Name</label>
+                            <input type="text" class="form-control" name="name" id="name" autofocus>
+                            <div class="error-message" id="nameError"></div>  <!-- Error message for name -->
+                        </div>
+                        <div class="form-group">
+                            <label>Email</label>
+                            <input type="email" class="form-control" name="email" id="email" autofocus>
+                            <div class="error-message" id="emailError"></div>  <!-- Error message for email -->
+                        </div>
+                        <div class="form-group">
+                            <label>Phone Number</label>
+                            <input type="text" class="form-control" name="phone" id="phone" autofocus>
+                            <div class="error-message" id="phoneError"></div>  <!-- Error message for phone -->
+                        </div>
+                        <div class="form-group mb--40">
+                            <label>Message</label>
+                            <textarea name="message" id="message" class="form-control textarea" cols="30" rows="4" placeholder="Describe Your Requirements" tabindex="4" autofocus></textarea>
+                            <div class="error-message" id="messageError"></div>  <!-- Error message for message -->
+                        </div>
                             <!-- <div class="form-group">
                                 <label>Subject</label>
                                 <input type="text" class="form-control" name="subject" tabindex="3" autofocus require>

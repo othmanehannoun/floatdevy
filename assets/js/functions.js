@@ -40,21 +40,97 @@ rad.forEach((item) => {
 });
 
 
+// function submitForm(event) {
+//     event.preventDefault();  // Prevent default form submission
+    
+//     const form = document.getElementById("dataForm");
+//     const formData = new FormData(form);
+    
+//     fetch("https://script.google.com/macros/s/AKfycbxKxnz0VwV2a0UtGoqHRneBv115KJ8CdQmiZzzA3a2wCUXaGjTOH4lBZsYhjDtyPcK6/exec", {  // Replace with your Google Apps Script URL
+//         method: "POST",
+//         mode: "no-cors",  // Prevent CORS issue
+//         body: formData
+//     })
+//     .then(response => response.text())
+//     .then(data => {
+//         window.location.replace("messagesuccess");
+//         form.reset(); // Clear the form after submission
+//     })
+//     .catch(error => console.error("Error:", error));
+// }
+
+
 function submitForm(event) {
     event.preventDefault();  // Prevent default form submission
     
+    // Clear previous errors
+    clearErrors();
+
+    // Form validation
+    const name = document.getElementById("name").value.trim();
+    const email = document.getElementById("email").value.trim();
+    const phone = document.getElementById("phone").value.trim();
+    const message = document.getElementById("message").value.trim();
+    
+    let isValid = true;
+
+    // Name validation
+    if (!name) {
+        showError("nameError", "Name is required.");
+        isValid = false;
+    }
+
+    // Email validation
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    if (!email) {
+        showError("emailError", "Email is required.");
+        isValid = false;
+    } else if (!emailRegex.test(email)) {
+        showError("emailError", "Please enter a valid email address.");
+        isValid = false;
+    }
+
+    // Phone validation
+    const phoneRegex = /^[0-9]+$/;
+    if (!phone) {
+        showError("phoneError", "Phone number is required.");
+        isValid = false;
+    } else if (!phoneRegex.test(phone)) {
+        showError("phoneError", "Please enter a valid phone number.");
+        isValid = false;
+    }
+
+    // Message validation
+    if (!message) {
+        showError("messageError", "Message is required.");
+        isValid = false;
+    }
+
+    if (!isValid) return; // Stop submission if validation fails
+
     const form = document.getElementById("dataForm");
     const formData = new FormData(form);
     
-    fetch("https://script.google.com/macros/s/AKfycbyDPw8pm6MuWIIfXWTYkXSOHei3c4oGVmq8DBEZt_MnIpXW8OpsyArVz9vI5cooGTDN/exec", {  // Replace with your Google Apps Script URL
+    fetch("https://script.google.com/macros/s/AKfycbxKxnz0VwV2a0UtGoqHRneBv115KJ8CdQmiZzzA3a2wCUXaGjTOH4lBZsYhjDtyPcK6/exec", {  // Replace with your Google Apps Script URL
         method: "POST",
         mode: "no-cors",  // Prevent CORS issue
         body: formData
     })
     .then(response => response.text())
     .then(data => {
-        alert("Form Submitted Successfully!");
+        window.location.replace("messagesuccess");
         form.reset(); // Clear the form after submission
     })
     .catch(error => console.error("Error:", error));
+}
+
+function showError(elementId, message) {
+    const errorElement = document.getElementById(elementId);
+    errorElement.textContent = message;  // Display error message in the corresponding div
+}
+
+function clearErrors() {
+    // Clear error messages from all fields
+    const errorElements = document.querySelectorAll('.error-message');
+    errorElements.forEach(element => element.textContent = '');
 }

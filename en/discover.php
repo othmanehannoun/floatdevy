@@ -45,7 +45,7 @@
                         <div class="single-pricing">
                             <div class="price-head">		
                                 <!-- <h2>Personal</h2> -->
-                                <h2 class="price">E-commece webite</h2>
+                                <h2 class="price">E-commece website</h2>
 
                                 <h3 class="price"><span class="linethrough">$700</span>$350</h3>
                             </div>
