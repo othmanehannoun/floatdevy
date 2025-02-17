@@ -29,6 +29,15 @@
     <!-- Site Stylesheet -->
     <link rel="stylesheet" href="../assets/css/app.css?v=<?php echo time(); ?>">
     <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K5HYJ5RNJZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K5HYJ5RNJZ');
+</script>
+    <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16810838513">
 </script>
 <script>
