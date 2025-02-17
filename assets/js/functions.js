@@ -91,14 +91,15 @@ function submitForm(event) {
     }
 
     // Phone validation
-    const phoneRegex = /^[0-9]+$/;
+    // const phoneRegex = /^[0-9]+$/;
     if (!phone) {
         showError("phoneError", "Phone number is required.");
         isValid = false;
-    } else if (!phoneRegex.test(phone)) {
-        showError("phoneError", "Please enter a valid phone number.");
-        isValid = false;
-    }
+    } 
+    // else if (!phoneRegex.test(phone)) {
+    //     showError("phoneError", "Please enter a valid phone number.");
+    //     isValid = false;
+    // }
 
     // Message validation
     if (!message) {

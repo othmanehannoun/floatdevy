@@ -10863,7 +10863,7 @@ input:checked + label::before {
     margin-left: 0px;
 }
 
-.single-pricing ul{list-style:none;margin-top: 30px;}
+.single-pricing ul{margin-top: 30px;}
 .single-pricing ul li {
 	line-height: 36px;
 }
