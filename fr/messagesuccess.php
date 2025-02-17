@@ -72,8 +72,9 @@
                     <div class="wrapper-1">
                         <div class="wrapper-2">
                             <img src="https://i.ibb.co/Lkn7rkG/thank-you-envelope.png" alt="thank-you-envelope" border="0">
-                            <h1>Thank you!</h1>
-                            <p>Your message has been successfully sent. <br>Our team will review it and respond within 24 hours. Thank you for your patience.</p>                            
+                            <h1>Merci!</h1>
+                            <p>votre message a bien été envoyé <br>Notre équipe l'examinera et vous répondra dans les 24 heures. Merci pour votre patience</p>                             
+                            
                         </div>
                     </div>
                 </div>

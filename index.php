@@ -3,7 +3,7 @@ session_start();
 
 
 // Redirect user to 'fr' folder
-header("Location: ./en/");
+header("Location: ./fr/");
 
  exit();
 ?>
